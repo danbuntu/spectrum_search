@@ -10,16 +10,35 @@
 
 
   <title>Bootstrap 101 Template</title>
-
+  <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="styles.css" rel="stylesheet">
 
 </head>
 <body>
+<div class="container">
+<br />
+<div class="row">
+
+  <div class="col-lg-12">
+    <div class="input-group">
+      <input type="text" class="form-control" placeholder="Search for..." id="searchBox">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" id="go">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+</div><!-- /.row -->
 
 
+</div>
 
+  <div id="loading"><img src="images/loading.gif"></div>
 
 </body>
 
 
   <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+  <script src="settings.js"></script>
   <script src="search.js"></script>
