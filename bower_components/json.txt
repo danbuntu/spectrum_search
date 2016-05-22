@@ -1,0 +1,76 @@
+Object
+additional
+:
+Array[3]
+additionals
+:
+Array[15]
+authors
+:
+Object
+availability
+:
+"Available as both Perfect TZX and non-TZX"
+budgetprice
+:
+Array[1]
+controls
+:
+Array[3]
+downloads
+:
+Array[5]
+fulltitle
+:
+"Licence to Kill"
+machinetype
+:
+"ZX Spectrum 48K/128K"
+magazine_0
+:
+Array[37]
+magazine_1
+:
+Array[12]
+messagelanguage
+:
+"English"
+numberofplayers
+:
+1
+originalprice
+:
+Array[2]
+originalpublication
+:
+"Commercial"
+othersystems
+:
+"This title was also advertised for and/or published on the Amstrad CPC, BBC Micro, Commodore 64 and MSX"
+pageinfo
+:
+Object
+protectionscheme
+:
+"None"
+publisher
+:
+Object
+rereleasedby
+:
+Array[2]
+score
+:
+Object
+series
+:
+"This game belongs in the following series: ↵ 1. View to a Kill - The Computer Game, A ↵ 2. Living Daylights - The Computer Game, The ↵ 3. Live and Let Die ↵ 4. Licence to Kill ↵ 5. Spy Who Loved Me, The"
+tieinlicence
+:
+"United Artists Inc (USA) / Eon Productions (UK) (movie: Licence to Kill)"
+type
+:
+"Arcade: Action"
+yearofrelease
+:
+1989
