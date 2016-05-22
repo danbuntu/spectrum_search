@@ -1,145 +1,146 @@
-var url = 'http://search.kolbeck.dk/sinclair/game/0000001',
+var url = 'http://search.kolbeck.dk/sinclair/game/',
   imagesUrl = 'https://wos.meulie.net',
-  settings = {
-    "settings": [{
-        "title": "fulltitle",
-        "label": "Full Title",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "machinetype",
-        "label": "Machine Type",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "yearofrelease",
-        "label": "Year Of Release",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "othersystems",
-        "label": "Other Systems",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "publisher",
-        "label": "Publisher",
-        "type": "setSimpleTable",
-        "debug": "0"
-      }, {
-        "title": "rereleasedby",
-        "label": "Re Released By",
-        "type": "setMultiRowTable",
-        "debug": "0"
-      }, {
-        "title": "additional",
-        "label": "Additional",
-        "type": "setMultiRowTable",
-        "debug": "0"
-      }, {
-        "title": "additionals",
-        "label": "Additionals",
-        "type": "setMultiRowTableAdditionals",
-        "debug": "0"
-      }, {
-        "title": "authors",
-        "label": "Authors",
-        "type": "setString",
-        "debug": "0"
-      }, {
-        "title": "availability",
-        "label": "Availability",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "budgetprice",
-        "label": "Budget Price",
-        "type": "setMultiRowTable",
-        "debug": "0"
-      }, {
-        "title": "controls",
-        "label": "Controls",
-        "type": "setString",
-        "debug": "0"
-      }, {
-        "title": "downloads",
-        "label": "Downloads",
-        "type": "setMultiRowTableDownloads",
-        "debug": "0"
-      }, {
-        "title": "magazine_0",
-        "label": "Magazine 0",
-        "type": "setMultiRowTableMagazine",
-        "debug": "0"
-      }, {
-        "title": "magazine_1",
-        "label": "Magazine 1",
-        "type": "setMultiRowTableMagazine",
-        "debug": "0"
-      }, {
-        "title": "messagelanguage",
-        "label": "Message Language",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "numberofplayers",
-        "label": "Number of Players",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "originalprice",
-        "label": "Original Price",
-        "type": "setMultiRowTable",
-        "debug": "0"
-      }, {
-        "title": "originalpublication",
-        "label": "Original Publication",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "othersystems",
-        "label": "Other Systems",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "protectionscheme",
-        "label": "Protection Scheme",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "pageinfo",
-        "label": "Page Info",
-        "type": "setSimpleTable",
-        "debug": "0"
-      }, {
-        "title": "score",
-        "label": "Score",
-        "type": "setSimpleTable",
-        "debug": "0"
-      }, {
-        "title": "series",
-        "label": "Series",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "tieinlicence",
-        "label": "Tie in Licence",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }, {
-        "title": "type",
-        "label": "Type",
-        "type": "setContentWithDivName",
-        "debug": "0"
-      }
-    ],
-  };
+  id = getUrlParameter('id');
+settings = {
+  "settings": [{
+    "title": "fulltitle",
+    "label": "Full Title",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "machinetype",
+    "label": "Machine Type",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "yearofrelease",
+    "label": "Year Of Release",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "othersystems",
+    "label": "Other Systems",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "publisher",
+    "label": "Publisher",
+    "type": "setSimpleTable",
+    "debug": "0"
+  }, {
+    "title": "rereleasedby",
+    "label": "Re Released By",
+    "type": "setMultiRowTable",
+    "debug": "0"
+  }, {
+    "title": "additional",
+    "label": "Additional",
+    "type": "setMultiRowTable",
+    "debug": "0"
+  }, {
+    "title": "additionals",
+    "label": "Additionals",
+    "type": "setMultiRowTableAdditionals",
+    "debug": "0"
+  }, {
+    "title": "authors",
+    "label": "Authors",
+    "type": "setString",
+    "debug": "0"
+  }, {
+    "title": "availability",
+    "label": "Availability",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "budgetprice",
+    "label": "Budget Price",
+    "type": "setMultiRowTable",
+    "debug": "0"
+  }, {
+    "title": "controls",
+    "label": "Controls",
+    "type": "setString",
+    "debug": "0"
+  }, {
+    "title": "downloads",
+    "label": "Downloads",
+    "type": "setMultiRowTableDownloads",
+    "debug": "0"
+  }, {
+    "title": "magazine_0",
+    "label": "Magazine 0",
+    "type": "setMultiRowTableMagazine",
+    "debug": "0"
+  }, {
+    "title": "magazine_1",
+    "label": "Magazine 1",
+    "type": "setMultiRowTableMagazine",
+    "debug": "0"
+  }, {
+    "title": "messagelanguage",
+    "label": "Message Language",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "numberofplayers",
+    "label": "Number of Players",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "originalprice",
+    "label": "Original Price",
+    "type": "setMultiRowTable",
+    "debug": "0"
+  }, {
+    "title": "originalpublication",
+    "label": "Original Publication",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "othersystems",
+    "label": "Other Systems",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "protectionscheme",
+    "label": "Protection Scheme",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "pageinfo",
+    "label": "Page Info",
+    "type": "setSimpleTable",
+    "debug": "0"
+  }, {
+    "title": "score",
+    "label": "Score",
+    "type": "setSimpleTable",
+    "debug": "0"
+  }, {
+    "title": "series",
+    "label": "Series",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "tieinlicence",
+    "label": "Tie in Licence",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }, {
+    "title": "type",
+    "label": "Type",
+    "type": "setContentWithDivName",
+    "debug": "0"
+  }],
+};
 
+console.log(id);
 
 $.ajax({
   type: "GET",
   dataType: "json",
-  url: url,
+  url: url + id,
   success: function(data) {
     // console.log(data);
 
@@ -414,12 +415,30 @@ var functions = {
 
 
   checkEmpty: function(check) {
-    if (check.length > 0) {
-      check = check;
-    } else {
-      check = 'N/A';
+
+    if (check) {
+      if (check.length > 0) {
+        check = check;
+      } else {
+        check = 'N/A';
+      }
     }
     return check
   }
 
 }
+
+function getUrlParameter(sParam) {
+  var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+    sURLVariables = sPageURL.split('&'),
+    sParameterName,
+    i;
+
+  for (i = 0; i < sURLVariables.length; i++) {
+    sParameterName = sURLVariables[i].split('=');
+
+    if (sParameterName[0] === sParam) {
+      return sParameterName[1] === undefined ? true : sParameterName[1];
+    }
+  }
+};
