@@ -132,5 +132,26 @@ searchUrl = 'http://search.kolbeck.dk/_search?',
       "label": "Type",
       "type": "setContentWithDivName",
       "debug": "0"
+    }]
+},
+
+    images = {"images": [{
+      "title": "Loading screen",
+      "label": "Loading Screen",
+      "div": "loadingScreen",
+      "type": "setImageInDiv",
+      "debug": "0"
+    }, {
+      "title": "Cassette inlay",
+      "label": "Cassette Inlay",
+      "div": "inGame",
+      "type": "setImageInDiv",
+      "debug": "0"
+    }, {
+      "title": "In-game screen",
+      "label": "In-game screen",
+      "div": "cassetteInlay",
+      "type": "setImageInDiv",
+      "debug": "0"
     }],
   };

@@ -114,21 +114,37 @@ var functions = {
         console.log(value);
       }
 
+      // check the images array
+      resultImage = $.grep(images.images, function(element, index) {
+      if (debug == 1) {
+        console.log('search for: ' + element.title);
+        console.log(element)
+        console.log('name:' + value.type);
+      }
+        return element.title == value.type;
+      });
+
+
+      // check if the array is empty so we don't try and output it
+      if (resultImage.length != 0) {
+        if (result[0].debug == 1) {
+          console.log('image found');
+          console.log('image found');
+          console.log(result);
+          console.log(value);
+        }
+        // call the correct function and pass it data
+        functions[resultImage[0].type](resultImage[0].title, resultImage[0].label, value, resultImage[0].debug, resultImage[0].div);
+      }
+
       tableSettings.tableRow += tableSettings.rowStart;
+
 
       //reset the filename value
       filename = '';
       linkurl = '';
       size = '';
       type = '';
-
-      // $.each([value][0], function(index2, value2) {
-      if (debug == 1) {
-        console.log('index2');
-        console.log(index2);
-        console.log('value2');
-        console.log(value2);
-      }
 
       linkurl = '<a href="' + imagesUrl + value.url + '">' + value.filename + '</a>';
       // build the row
@@ -173,9 +189,7 @@ var functions = {
       // $.each([value][0], function(index2, value2) {
       if (debug == 1) {
         console.log('index2');
-        console.log(index2);
         console.log('value2');
-        console.log(value2);
       }
 
       linkurl = '<a href="' + imagesUrl + value.url + '">' + value.filename + '</a>';
@@ -288,7 +302,26 @@ var functions = {
       }
     }
     return check
+  },
+
+
+  setImageInDiv: function(name, label, value, debug, div) {
+    if (debug == 1) {
+      console.log('call the images function');
+      console.log(value);
+      console.log(label);
+      console.log(img);
+      console.log(div);
+    }
+    //make the img link
+    var img = '<img src="' + imagesUrl + value.url + '">';
+    // stick the image in the div
+    $('#' + div).html(img);
+    $('#' + div + 'Label').html(label);
+
   }
+
+
 
 }
 
