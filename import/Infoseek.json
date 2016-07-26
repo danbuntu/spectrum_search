@@ -1,0 +1,624 @@
+﻿{
+    "_index": "sinclair",
+    "_type": "game",
+    "_id": "0000001",
+    "_version": 5,
+    "found": true,
+    "_source": {
+        "pageinfo": {
+            "url": "http://www.worldofspectrum.org/infoseekid.cgi?id=0000001",
+            "domain": "worldofspectrum.org",
+            "path": "/infoseekid.cgi",
+            "subDomain": "www",
+            "parentUrl": "http://www.worldofspectrum.org/disks.html",
+            "anchor": "Licence to Kill"
+        },
+        "fulltitle": "Licence to Kill",
+        "yearofrelease": 1989,
+        "publisher": {"name": "Domark Ltd", "country": "UK"},
+        "rereleasedby": [
+            {"country": "Spain", "as": "as 'Con Licencia para Matar'", "name": "Erbe Software S.A."},
+            {"country": "Spain", "as": "as 'Con Licencia para Matar'", "name": "Musical 1 S.A."}
+        ],
+        "authors": {
+            "authors": [
+                "Quixel",
+                "John Kavanagh",
+                "Raffaele Cecco",
+                "AW",
+                "AB"
+            ]
+        },
+        "tieinlicence": "United Artists Inc (USA) / Eon Productions (UK) (movie: Licence to Kill)",
+        "machinetype": "ZX Spectrum 48K/128K",
+        "numberofplayers": 1,
+        "controls": [
+            "Interface 2",
+            "Keyboard",
+            "Kempston"
+        ],
+        "type": "Arcade: Action",
+        "messagelanguage": "English",
+        "originalpublication": "Commercial",
+        "originalprice": [
+            {"amount": -1.0, "currency": "N/A"},
+            {"amount": 1200.0, "currency": "ptas."}
+        ],
+        "budgetprice": [{"amount": 2.99, "currency": "Â£"}],
+        "availability": "Available as both Perfect TZX and non-TZX",
+        "protectionscheme": "None",
+        "additional": [
+            {
+                "type": "compilation",
+                "info": "Appeared on tape 2, side A of the compilation",
+                "target": "Heroes"
+            },
+            {
+                "type": "compilation",
+                "info": "Appeared on side A of the compilation",
+                "target": "James Bond 007 Collection, The"
+            },
+            {"info": "Also listed on Wikipedia and Freebase"}
+        ],
+        "series": "This game belongs in the following series: \n 1. View to a Kill - The Computer Game, A \n 2. Living Daylights - The Computer Game, The \n 3. Live and Let Die \n 4. Licence to Kill \n 5. Spy Who Loved Me, The",
+        "othersystems": "This title was also advertised for and/or published on the Amstrad CPC, BBC Micro, Commodore 64 and MSX",
+        "score": {"score": 7.97, "votes": 43},
+        "downloads": [
+            {
+                "filename": "LicenceToKill.tzx.zip",
+                "code": "",
+                "size": 41330,
+                "year": "1989",
+                "origin": "Original release",
+                "dl": "",
+                "type": "Perfect TZX tape image",
+                "barcode": "9781851603657",
+                "url": "/pub/sinclair/games/l/LicenceToKill.tzx.zip"
+            },
+            {
+                "filename": "LicenceToKill.dsk.zip",
+                "code": "",
+                "size": 24497,
+                "year": "1989",
+                "origin": "Original release",
+                "dl": "",
+                "type": "+3 disk image",
+                "barcode": "",
+                "url": "/pub/sinclair/games/l/LicenceToKill.dsk.zip"
+            },
+            {
+                "filename": "LicenceToKill128.tap.zip",
+                "code": "",
+                "size": 24506,
+                "year": "1989",
+                "origin": "",
+                "dl": "",
+                "type": "(non-TZX) TAP tape image",
+                "barcode": "",
+                "url": "/pub/sinclair/games/l/LicenceToKill128.tap.zip"
+            },
+            {
+                "filename": "LicenceToKill48.tap.zip",
+                "code": "",
+                "size": 23022,
+                "year": "1989",
+                "origin": "",
+                "dl": "",
+                "type": "(non-TZX) TAP tape image",
+                "barcode": "",
+                "url": "/pub/sinclair/games/l/LicenceToKill48.tap.zip"
+            },
+            {
+                "filename": "LicenceToKill(TheHitSquad).tzx.zip",
+                "code": "MC17",
+                "size": 41952,
+                "year": "1991",
+                "origin": "Re-release",
+                "dl": "",
+                "type": "Perfect TZX tape image",
+                "barcode": "",
+                "url": "/pub/sinclair/games/l/LicenceToKill(TheHitSquad).tzx.zip"
+            }
+        ],
+        "additionals": [
+            {
+                "filename": "LicenceToKill.gif",
+                "size": 5128,
+                "type": "Loading screen",
+                "url": "/pub/sinclair/screens/load/l/gif/LicenceToKill.gif"
+            },
+            {
+                "filename": "LicenceToKill.scr",
+                "size": 6912,
+                "type": "Loading screen dump",
+                "url": "/pub/sinclair/screens/load/l/scr/LicenceToKill.scr"
+            },
+            {
+                "filename": "LicenceToKill.gif",
+                "size": 6112,
+                "type": "In-game screen",
+                "url": "/pub/sinclair/screens/in-game/l/LicenceToKill.gif"
+            },
+            {},
+            {
+                "filename": "LicenceToKill.txt",
+                "size": 7851,
+                "type": "English instructions",
+                "url": "/pub/sinclair/games-info/l/LicenceToKill.txt"
+            },
+            {
+                "filename": "LicenceToKill(ConLicenciaParaMatar)(ErbeSoftwareS.A.).pdf",
+                "size": 12458,
+                "type": "Spanish instructions",
+                "url": "/pub/sinclair/games-info/l/LicenceToKill(ConLicenciaParaMatar)(ErbeSoftwareS.A.).pdf"
+            },
+            {
+                "filename": "LicenceToKill.jpg",
+                "size": 71051,
+                "type": "Game map",
+                "url": "/pub/sinclair/games-maps/l/LicenceToKill.jpg"
+            },
+            {
+                "filename": "LicenceToKill_2.jpg",
+                "size": 735082,
+                "type": "Game map",
+                "url": "/pub/sinclair/games-maps/l/LicenceToKill_2.jpg"
+            },
+            {
+                "filename": "LicenceToKill_3.png",
+                "size": 125405,
+                "type": "Game map",
+                "url": "/pub/sinclair/games-maps/l/LicenceToKill_3.png"
+            },
+            {
+                "filename": "LicenceToKill.jpg",
+                "size": 157395,
+                "type": "Cassette inlay",
+                "url": "/pub/sinclair/games-inlays/l/LicenceToKill.jpg"
+            },
+            {
+                "filename": "LicenceToKill(ConLicenciaParaMatar)(ErbeSoftwareS.A.).jpg",
+                "size": 115039,
+                "type": "Re-release cassette inlay",
+                "url": "/pub/sinclair/games-inlays/Rereleases/l/LicenceToKill(ConLicenciaParaMatar)(ErbeSoftwareS.A.).jpg"
+            },
+            {
+                "filename": "LicenceToKill(TheHitSquad).jpg",
+                "size": 37552,
+                "type": "Re-release cassette inlay",
+                "url": "/pub/sinclair/games-inlays/Rereleases/l/LicenceToKill(TheHitSquad).jpg"
+            },
+            {
+                "filename": "LicenceToKill.jpg",
+                "size": 335826,
+                "type": "Advertisement",
+                "url": "/pub/sinclair/games-adverts/l/LicenceToKill.jpg"
+            },
+            {
+                "filename": "LicenceToKill.ay.zip",
+                "size": 3330,
+                "type": "Ripped in-game and theme music in AY format",
+                "url": "/pub/sinclair/music/ay/games/l/LicenceToKill.ay.zip"
+            },
+            {
+                "filename": "LicenceToKill.mp3.zip",
+                "size": 4722574,
+                "type": "Sampled in-game and theme music in MP3 format",
+                "url": "/pub/sinclair/music/mp3/LicenceToKill.mp3.zip"
+            }
+        ],
+        "magazine_1": [
+            {
+                "issue": "7.89",
+                "magazine_type": "Two-page ad",
+                "magazine": "ACE",
+                "page": "6",
+                "url": "/pub/sinclair/magazines/ACE/Issue22/Pages/ACE2200006.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "Two-page ad",
+                "magazine": "Computer & Video Games",
+                "page": "66",
+                "url": "/pub/sinclair/magazines/C+VG/Issue093/Pages/CVG09300066.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "Two-page ad",
+                "magazine": "Games Machine",
+                "page": "46",
+                "url": "/pub/sinclair/magazines/TheGamesMachine/Issue20/Pages/TheGamesMachine2000046.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "Two-page ad",
+                "magazine": "Sinclair User",
+                "page": "6",
+                "url": "/pub/sinclair/magazines/SinclairUser/Issue088/Pages/SinclairUser08800006.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "Two-page ad",
+                "magazine": "Your Sinclair",
+                "page": "14",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue43/Pages/YourSinclair4300014.jpg"
+            },
+            {
+                "issue": "10.89",
+                "magazine_type": "CompoEntry",
+                "magazine": "Your Sinclair",
+                "page": "8",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue46/Pages/YourSinclair4600008.jpg"
+            },
+            {
+                "issue": "12.89",
+                "magazine_type": "Offer - ref. \"License to Kill\"",
+                "magazine": "Sinclair User",
+                "page": "76",
+                "url": "/pub/sinclair/magazines/SinclairUser/Issue093/Pages/SinclairUser09300076.jpg"
+            },
+            {
+                "issue": "5.91",
+                "magazine_type": "Advert - The Hit Squad advert",
+                "magazine": "Crash",
+                "page": "45",
+                "url": "/pub/sinclair/magazines/Crash/Issue88/Pages/Crash8800045.jpg"
+            },
+            {
+                "issue": "5.91",
+                "magazine_type": "Advert - The Hit Squad advert",
+                "magazine": "Sinclair User",
+                "page": "23",
+                "url": "/pub/sinclair/magazines/SinclairUser/Issue111/Pages/SinclairUser11100023.jpg"
+            },
+            {
+                "issue": "5.91",
+                "magazine_type": "Advert - The Hit Squad advert",
+                "magazine": "Your Sinclair",
+                "page": "44",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue65/Pages/YourSinclair6500044.jpg"
+            },
+            {
+                "issue": "6.91",
+                "magazine_type": "Advert - The Hit Squad advert",
+                "magazine": "Crash",
+                "page": "8",
+                "url": "/pub/sinclair/magazines/Crash/Issue89/Pages/Crash8900008.jpg"
+            },
+            {
+                "issue": "6.91",
+                "magazine_type": "Advert - The Hit Squad advert",
+                "magazine": "Computer & Video Games",
+                "page": "38",
+                "url": "/pub/sinclair/magazines/C+VG/Issue115/Pages/CVG11500038.jpg"
+            }
+        ],
+        "magazine_0": [
+            {
+                "issue": "4.89",
+                "magazine_type": "News/Note",
+                "magazine": "Computer & Video Games",
+                "page": "15",
+                "url": "/pub/sinclair/magazines/C+VG/Issue090/Pages/CVG09000015.jpg"
+            },
+            {
+                "issue": "5.89",
+                "magazine_type": "News/Note",
+                "magazine": "Crash",
+                "page": "8",
+                "url": "/pub/sinclair/magazines/Crash/Issue64/Pages/Crash6400008.jpg"
+            },
+            {
+                "issue": "6.89",
+                "magazine_type": "Preview",
+                "magazine": "Crash",
+                "page": "10",
+                "url": "/pub/sinclair/magazines/Crash/Issue65/Pages/Crash6500010.jpg"
+            },
+            {
+                "issue": "6.89",
+                "magazine_type": "Preview",
+                "magazine": "Computer & Video Games",
+                "page": "102",
+                "url": "/pub/sinclair/magazines/C+VG/Issue092/Pages/CVG09200102.jpg"
+            },
+            {
+                "issue": "6.89",
+                "magazine_type": "Preview",
+                "magazine": "Games Machine",
+                "page": "11",
+                "url": "/pub/sinclair/magazines/TheGamesMachine/Issue19/Pages/TheGamesMachine1900011.jpg"
+            },
+            {
+                "issue": "6.89",
+                "magazine_type": "Preview",
+                "magazine": "Sinclair User",
+                "page": "85",
+                "url": "/pub/sinclair/magazines/SinclairUser/Issue087/Pages/SinclairUser08700085.jpg"
+            },
+            {
+                "issue": "6.89",
+                "magazine_type": "Preview",
+                "magazine": "Your Sinclair",
+                "page": "96",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue42/Pages/YourSinclair4200096.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "News/Note",
+                "magazine": "Crash",
+                "page": "15",
+                "url": "/pub/sinclair/magazines/Crash/Issue66/Pages/Crash6600015.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "Preview",
+                "magazine": "Computer & Video Games",
+                "page": "12",
+                "url": "/pub/sinclair/magazines/C+VG/Issue093/Pages/CVG09300012.jpg"
+            },
+            {
+                "issue": "7.89",
+                "magazine_type": "Review - not a Spectrum article",
+                "magazine": "New Computer Express",
+                "page": "441"
+            },
+            {
+                "issue": "8.89",
+                "magazine_type": "Preview",
+                "magazine": "Crash",
+                "page": "29",
+                "url": "/pub/sinclair/magazines/Crash/Issue67/Pages/Crash6700029.jpg"
+            },
+            {
+                "issue": "8.89",
+                "magazine_type": "Review - not a Spectrum article",
+                "magazine": "Games Machine",
+                "page": "100",
+                "url": "/pub/sinclair/magazines/TheGamesMachine/Issue21/Pages/TheGamesMachine2100100.jpg"
+            },
+            {
+                "issue": "9.89",
+                "magazine_type": "Review",
+                "magazine": "ACE",
+                "page": "54",
+                "url": "/pub/sinclair/magazines/ACE/Issue24/Pages/ACE2400054.jpg"
+            },
+            {
+                "issue": "9.89",
+                "magazine_type": "Tips",
+                "magazine": "ACE",
+                "page": "75",
+                "url": "/pub/sinclair/magazines/ACE/Issue24/Pages/ACE2400075.jpg"
+            },
+            {
+                "issue": "9.89",
+                "magazine_type": "Review",
+                "magazine": "Crash",
+                "page": "46",
+                "url": "/pub/sinclair/magazines/Crash/Issue68/Pages/Crash6800046.jpg"
+            },
+            {"issue": "9.89", "magazine_type": "News/Note", "magazine": "New Computer Express", "page": "254"},
+            {"issue": "9.89", "magazine_type": "Hack/Poke", "magazine": "New Computer Express", "page": "256"},
+            {
+                "issue": "9.89",
+                "magazine_type": "Review",
+                "magazine": "Sinclair User",
+                "page": "20",
+                "url": "/pub/sinclair/magazines/SinclairUser/Issue090/Pages/SinclairUser09000020.jpg"
+            },
+            {
+                "issue": "9.89",
+                "magazine_type": "Review",
+                "magazine": "Your Sinclair",
+                "page": "86",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue45/Pages/YourSinclair4500086.jpg"
+            },
+            {
+                "issue": "10.89",
+                "magazine_type": "Tips",
+                "magazine": "Crash",
+                "page": "31",
+                "url": "/pub/sinclair/magazines/Crash/Issue69/Pages/Crash6900031.jpg"
+            },
+            {
+                "issue": "10.89",
+                "magazine_type": "Hack/Poke",
+                "magazine": "Crash",
+                "page": "35",
+                "url": "/pub/sinclair/magazines/Crash/Issue69/Pages/Crash6900035.jpg"
+            },
+            {
+                "issue": "10.89",
+                "magazine_type": "Review",
+                "magazine": "Games Machine",
+                "page": "81",
+                "url": "/pub/sinclair/magazines/TheGamesMachine/Issue23/Pages/TheGamesMachine2300081.jpg"
+            },
+            {
+                "issue": "11.89",
+                "magazine_type": "Letter",
+                "magazine": "Crash",
+                "page": "14",
+                "url": "/pub/sinclair/magazines/Crash/Issue70/Pages/Crash7000014.jpg"
+            },
+            {
+                "issue": "12.89",
+                "magazine_type": "Tips",
+                "magazine": "Your Sinclair",
+                "page": "39",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue48/Pages/YourSinclair4800039.jpg"
+            },
+            {
+                "issue": "12.89",
+                "magazine_type": "Map",
+                "magazine": "Your Sinclair",
+                "page": "39",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue48/Pages/YourSinclair4800039.jpg"
+            },
+            {
+                "issue": "2.90",
+                "magazine_type": "Hack/Poke",
+                "magazine": "Your Sinclair",
+                "page": "40",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue50/Pages/YourSinclair5000040.jpg"
+            },
+            {
+                "issue": "7.90",
+                "magazine_type": "Tips",
+                "magazine": "Your Sinclair",
+                "page": "46",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue55/Pages/YourSinclair5500046.jpg"
+            },
+            {
+                "issue": "12.90",
+                "magazine_type": "Feature - Complete Guide to Film & TV games",
+                "magazine": "Your Sinclair",
+                "page": "61",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue60/Pages/YourSinclair6000061.jpg"
+            },
+            {
+                "issue": "5.91",
+                "magazine_type": "News/Note",
+                "magazine": "Computer & Video Games",
+                "page": "15",
+                "url": "/pub/sinclair/magazines/C+VG/Issue114/Pages/CVG11400015.jpg"
+            },
+            {
+                "issue": "6.91",
+                "magazine_type": "Review",
+                "magazine": "Your Sinclair",
+                "page": "76",
+                "url": "/pub/sinclair/magazines/YourSinclair/Issue66/Pages/YourSinclair6600076.jpg"
+            },
+            {
+                "issue": "7.91",
+                "magazine_type": "Review",
+                "magazine": "Computer & Video Games",
+                "page": "85",
+                "url": "/pub/sinclair/magazines/C+VG/Issue116/Pages/CVG11600085.jpg"
+            },
+            {
+                "issue": "7.91",
+                "magazine_type": "Review",
+                "magazine": "Sinclair User",
+                "page": "42",
+                "url": "/pub/sinclair/magazines/SinclairUser/Issue113/Pages/SinclairUser11300042.jpg"
+            },
+            {
+                "issue": "9.91",
+                "magazine_type": "Review",
+                "magazine": "Computer & Video Games",
+                "page": "85",
+                "url": "/pub/sinclair/magazines/C+VG/Issue118/Pages/CVG11800085.jpg"
+            },
+            {
+                "issue": "1.92",
+                "magazine_type": "Solution",
+                "magazine": "Crash",
+                "page": "46",
+                "url": "/pub/sinclair/magazines/Crash/Issue95/Pages/Crash9500046.jpg"
+            },
+            {
+                "issue": "9.89",
+                "magazine_type": "Nuevo",
+                "magazine": "MicroHobby",
+                "page": "33",
+                "url": "/pub/sinclair/magazines/MicroHobby/Issue191/Pages/MicroHobby19100033.jpg"
+            },
+            {
+                "issue": "9.89",
+                "magazine_type": "Mapa",
+                "magazine": "MicroHobby",
+                "page": "34",
+                "url": "/pub/sinclair/magazines/MicroHobby/Issue191/Pages/MicroHobby19100034.jpg"
+            },
+            {
+                "issue": "11.89",
+                "magazine_type": "Justicieros",
+                "magazine": "MicroHobby",
+                "page": "16",
+                "url": "/pub/sinclair/magazines/MicroHobby/Issue193/Pages/MicroHobby19300016.jpg"
+            }
+        ]
+    }
+},
+{
+"_index":"sinclair","_type":"game","_id":"0000004","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000004","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/disks.html","anchor":"Live and Let Die"},"fulltitle":"Live and Let Die","alsoknownas":"Live and Let Die - The Computer Game \n Aquablast","yearofrelease":1988,"publisher":{"name":"Domark Ltd","country":"UK"},"rereleasedby":[{"country":"UK","name":"EDOS"},{"country":"UK","name":"Encore"}],"authors":{"group":"Elite Systems Ltd ","authors":["Byron Nilsson","Peter Tattersall","Paul D. Walker","Mark Cooksey"]},"tieinlicence":"United Artists Inc (USA) / Eon Productions (UK) (movie: Live and Let Die)","machinetype":"ZX Spectrum 48K/128K","numberofplayers":1,"controls":["Cursor","Interface 2","Keyboard","Kempston"],"type":"Arcade: Shoot-em-up","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":-1.0,"currency":"N/A"},{"amount":1200.0,"currency":"ptas."}],"budgetprice":[{"amount":2.99,"currency":"Â£"}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"Multiple schemes (see individual downloads)","additional":[{"type":"compilation","info":"Appeared on side A of the compilation","target":"James Bond 007 Collection, The"},{"type":"compilation","info":"Appeared on the compilation","target":"Story So Far Vol 2, The"},{"type":"compilation","info":"Appeared on tape 1, side B of the compilation","target":"Thrill Time Platinum"}],"remarks":"Initially set out to be written by Lynsoft (Gordon Fong), but ultimately cancelled and moved to Elite Systems.","series":"This game belongs in the following series: \n 1. View to a Kill - The Computer Game, A \n 2. Living Daylights - The Computer Game, The \n 3. Live and Let Die \n 4. Licence to Kill \n 5. Spy Who Loved Me, The","othersystems":"This title was also advertised for and/or published on the Amstrad CPC and Commodore 64","score":{"score":6.33,"votes":20},"downloads":[{"filename":"LiveAndLetDie.tzx.zip","code":"","size":58923,"year":"1988","origin":"Original release","encodingscheme":"Unspecified custom loader","dl":"","type":"Perfect TZX tape image","barcode":"9781851603015","url":"/pub/sinclair/games/l/LiveAndLetDie.tzx.zip"},{"filename":"LiveAndLetDie.dsk.zip","code":"","size":33888,"year":"1988","origin":"Original release","dl":"","type":"+3 disk image","barcode":"","url":"/pub/sinclair/games/l/LiveAndLetDie.dsk.zip"},{"filename":"LiveAndLetDie.tap.zip","code":"","size":34824,"year":"1988","origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/l/LiveAndLetDie.tap.zip"},{"filename":"LiveAndLetDie(Encore).tzx.zip","code":"","size":27968,"year":"1990","origin":"Re-release","encodingscheme":"None","dl":"","type":"Perfect TZX tape image","barcode":"5012189200572","url":"/pub/sinclair/games/l/LiveAndLetDie(Encore).tzx.zip"}],"additionals":[{"filename":"LiveAndLetDie.gif","size":5992,"type":"Loading screen","url":"/pub/sinclair/screens/load/l/gif/LiveAndLetDie.gif"},{"filename":"LiveAndLetDie.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/l/scr/LiveAndLetDie.scr"},{"filename":"LiveAndLetDie.gif","size":4876,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/l/LiveAndLetDie.gif"},{},{"filename":"LiveAndLetDie.txt","size":3509,"type":"English instructions","url":"/pub/sinclair/games-info/l/LiveAndLetDie.txt"},{"filename":"LiveAndLetDie.png","size":15102,"type":"Game map","url":"/pub/sinclair/games-maps/l/LiveAndLetDie.png"},{"filename":"LiveAndLetDie.jpg","size":233977,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/l/LiveAndLetDie.jpg"},{"filename":"LiveAndLetDie(Encore).jpg","size":68463,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/l/LiveAndLetDie(Encore).jpg"},{"filename":"LiveAndLetDie.jpg","size":313248,"type":"Advertisement","url":"/pub/sinclair/games-adverts/l/LiveAndLetDie.jpg"},{"filename":"LiveAndLetDie.ay.zip","size":3094,"type":"Ripped in-game and theme music in AY format","url":"/pub/sinclair/music/ay/games/l/LiveAndLetDie.ay.zip"}],"magazine_1":[{"issue":"7.88","magazine_type":"CompoEntry","magazine":"Your Sinclair","page":"71","url":"/pub/sinclair/magazines/YourSinclair/Issue31/Pages/YourSinclair3100071.jpg"},{"issue":"9.88","magazine_type":"CompoEntry","magazine":"Sinclair User","page":"20","url":"/pub/sinclair/magazines/SinclairUser/Issue078/Pages/SinclairUser07800020.jpg"},{"issue":"11.88","magazine_type":"Two-page ad","magazine":"ACE","page":"2","url":"/pub/sinclair/magazines/ACE/Issue14/Pages/ACE1400002.jpg"},{"issue":"11.88","magazine_type":"Two-page ad","magazine":"Crash","page":"58","url":"/pub/sinclair/magazines/Crash/Issue58/Pages/Crash5800058.jpg"},{"issue":"11.88","magazine_type":"Two-page ad","magazine":"Computer & Video Games","page":"2","url":"/pub/sinclair/magazines/C+VG/Issue085/Pages/CVG08500002.jpg"},{"issue":"12.88","magazine_type":"CompoResult","magazine":"Your Sinclair","page":"99","url":"/pub/sinclair/magazines/YourSinclair/Issue36/Pages/YourSinclair3600099.jpg"},{"issue":"5.90","magazine_type":"Advert - Encore advert","magazine":"ACE","page":"31","url":"/pub/sinclair/magazines/ACE/Issue32/Pages/ACE3200031.jpg"},{"issue":"5.90","magazine_type":"Advert - Encore advert","magazine":"Computer & Video Games","page":"12","url":"/pub/sinclair/magazines/C+VG/Issue102/Pages/CVG10200012.jpg"},{"issue":"6.90","magazine_type":"Advert - Encore advert","magazine":"Computer & Video Games","page":"12","url":"/pub/sinclair/magazines/C+VG/Issue103/Pages/CVG10300012.jpg"}],"magazine_0":[{"issue":"7.86","magazine_type":"Preview","magazine":"Sinclair User","page":"90","url":"/pub/sinclair/magazines/SinclairUser/Issue052/Pages/SinclairUser05200090.jpg"},{"issue":"8.86","magazine_type":"News/Note","magazine":"Your Sinclair","page":"5","url":"/pub/sinclair/magazines/YourSinclair/Issue08/Pages/YourSinclair0800005.jpg"},{"issue":"4.88","magazine_type":"News/Note","magazine":"Popular Computing Weekly","page":"305"},{"issue":"5.88","magazine_type":"Preview","magazine":"Crash","page":"96","url":"/pub/sinclair/magazines/Crash/Issue52/Pages/Crash5200096.jpg"},{"issue":"6.88","magazine_type":"News/Note","magazine":"Sinclair User","page":"25","url":"/pub/sinclair/magazines/SinclairUser/Issue075/Pages/SinclairUser07500025.jpg"},{"issue":"6.88","magazine_type":"News/Note","magazine":"Your Sinclair","page":"7","url":"/pub/sinclair/magazines/YourSinclair/Issue30/Pages/YourSinclair3000007.jpg"},{"issue":"9.88","magazine_type":"News/Note","magazine":"Computer & Video Games","page":"9","url":"/pub/sinclair/magazines/C+VG/Issue083/Pages/CVG08300009.jpg"},{"issue":"9.88","magazine_type":"Feature - Stick A Deckchair Up Your Nose","magazine":"Games Machine","page":"14","url":"/pub/sinclair/magazines/TheGamesMachine/Issue10/Pages/TheGamesMachine1000014.jpg"},{"issue":"9.88","magazine_type":"News/Note","magazine":"Popular Computing Weekly","page":"110"},{"issue":"10.88","magazine_type":"News/Note","magazine":"Crash","page":"8","url":"/pub/sinclair/magazines/Crash/Issue57/Pages/Crash5700008.jpg"},{"issue":"10.88","magazine_type":"Preview","magazine":"Crash","page":"116","url":"/pub/sinclair/magazines/Crash/Issue57/Pages/Crash5700116.jpg"},{"issue":"10.88","magazine_type":"News/Note","magazine":"Games Machine","page":"8","url":"/pub/sinclair/magazines/TheGamesMachine/Issue11/Pages/TheGamesMachine1100008.jpg"},{"issue":"10.88","magazine_type":"Preview","magazine":"Your Sinclair","page":"9","url":"/pub/sinclair/magazines/YourSinclair/Issue34/Pages/YourSinclair3400009.jpg"},{"issue":"11.88","magazine_type":"Review","magazine":"Computer & Video Games","page":"56","url":"/pub/sinclair/magazines/C+VG/Issue085/Pages/CVG08500056.jpg"},{"issue":"11.88","magazine_type":"Review - not a Spectrum article","magazine":"New Computer Express","page":"328"},{"issue":"11.88","magazine_type":"Review","magazine":"Sinclair User","page":"22","url":"/pub/sinclair/magazines/SinclairUser/Issue080/Pages/SinclairUser08000022.jpg"},{"issue":"12.88","magazine_type":"Review","magazine":"Crash","page":"186","url":"/pub/sinclair/magazines/Crash/Issue59/Pages/Crash5900186.jpg"},{"issue":"12.88","magazine_type":"Review","magazine":"Your Sinclair","page":"93","url":"/pub/sinclair/magazines/YourSinclair/Issue36/Pages/YourSinclair3600093.jpg"},{"issue":"1.89","magazine_type":"Review","magazine":"ACE","page":"58","url":"/pub/sinclair/magazines/ACE/Issue16/Pages/ACE1600058.jpg"},{"issue":"1.89","magazine_type":"Review - not a Spectrum article","magazine":"Games Machine","page":"66","url":"/pub/sinclair/magazines/TheGamesMachine/Issue14/Pages/TheGamesMachine1400066.jpg"},{"issue":"10.89","magazine_type":"Hack/Poke","magazine":"Your Sinclair","page":"38","url":"/pub/sinclair/magazines/YourSinclair/Issue46/Pages/YourSinclair4600038.jpg"},{"issue":"7.90","magazine_type":"Review","magazine":"Sinclair User","page":"34","url":"/pub/sinclair/magazines/SinclairUser/Issue101/Pages/SinclairUser10100034.jpg"},{"issue":"12.88","magazine_type":"Premiere","magazine":"MicroHobby","page":"14","url":"/pub/sinclair/magazines/MicroHobby/Issue183/Pages/MicroHobby18300014.jpg"},{"issue":"1.89","magazine_type":"Nuevo","magazine":"MicroHobby","page":"31","url":"/pub/sinclair/magazines/MicroHobby/Issue184/Pages/MicroHobby18400031.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000006","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000006","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/tieins.html","anchor":"Living Daylights - The Computer Game, The"},"fulltitle":"Living Daylights - The Computer Game, The","alsoknownas":"Living Daylights, The","yearofrelease":1987,"publisher":{"name":"Domark Ltd","country":"UK"},"rereleasedby":[{"country":"Spain","as":"as 'Alta Tension'","name":"Erbe Software S.A."},{"country":"Spain","as":"as 'Alta Tension'","name":"IBSA"},{"country":"Spain","as":"as 'Alta Tension'","name":"Musical 1 S.A."}],"authors":{"group":"Walking Circles ","authors":["Graham Stafford","David Fish","David Whittaker","Richard Naylor"]},"tieinlicence":"United Artists Inc (USA) / Eon Productions (UK) (movie: Living Daylights, The)","machinetype":"ZX Spectrum 48K","numberofplayers":1,"controls":["Cursor","Interface 2","Redefineable keys","Kempston"],"type":"Arcade: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":8.95,"currency":"Â£"}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"Multiple schemes (see individual downloads)","additional":[{"info":"Supports the Magnum Light Phaser"},{"type":"compilation","info":"Appeared on side B of the compilation","target":"6-Pak Vol 3"},{"info":"Also listed on Freebase"}],"series":"This game belongs in the following series: \n 1. View to a Kill - The Computer Game, A \n 2. Living Daylights - The Computer Game, The \n 3. Live and Let Die \n 4. Licence to Kill \n 5. Spy Who Loved Me, The","othersystems":"This title was also advertised for and/or published on the Amstrad CPC, Atari 8-bit, BBC Micro, Commodore 64 and MSX","score":{"score":6.7,"votes":22},"downloads":[{"filename":"LivingDaylights-TheComputerGameThe.tzx.zip","code":"","size":27822,"origin":"Original release","encodingscheme":"None","dl":"","type":"Perfect TZX tape image","barcode":"9781851601172","url":"/pub/sinclair/games/l/LivingDaylights-TheComputerGameThe.tzx.zip"},{"filename":"LivingDaylights-TheComputerGameThe.tap.zip","code":"","size":27644,"origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/l/LivingDaylights-TheComputerGameThe.tap.zip"},{"filename":"LivingDaylights-TheComputerGameThe(AltaTension)(ErbeSoftwareS.A.).tzx.zip","code":"","size":27841,"origin":"Re-release","encodingscheme":"Unspecified custom loader","dl":"M-28239-1987","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/l/LivingDaylights-TheComputerGameThe(AltaTension)(ErbeSoftwareS.A.).tzx.zip"},{"filename":"LivingDaylights-TheComputerGameThe(AltaTension)(IBSA).tzx.zip","code":"","size":27737,"origin":"Re-release","encodingscheme":"Unspecified custom loader","dl":"M-28239-1987","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/l/LivingDaylights-TheComputerGameThe(AltaTension)(IBSA).tzx.zip"}],"additionals":[{"filename":"LivingDaylightsThe.gif","size":6280,"type":"Loading screen","url":"/pub/sinclair/screens/load/l/gif/LivingDaylightsThe.gif"},{"filename":"LivingDaylightsThe.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/l/scr/LivingDaylightsThe.scr"},{"filename":"LivingDaylightsThe.gif","size":5874,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/l/LivingDaylightsThe.gif"},{},{"filename":"LivingDaylightsThe(AltaTension)(ErbeSoftwareS.A.).pdf","size":10951,"type":"Spanish instructions","url":"/pub/sinclair/games-info/l/LivingDaylightsThe(AltaTension)(ErbeSoftwareS.A.).pdf"},{"filename":"LivingDaylightsThe.png","size":47644,"type":"Game map","url":"/pub/sinclair/games-maps/l/LivingDaylightsThe.png"},{"filename":"LivingDaylightsThe.jpg","size":134465,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/l/LivingDaylightsThe.jpg"},{"filename":"LivingDaylightsThe(AltaTension)(ErbeSoftwareS.A.).jpg","size":78083,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/l/LivingDaylightsThe(AltaTension)(ErbeSoftwareS.A.).jpg"},{"filename":"LivingDaylightsThe(AltaTension)(IBSA).jpg","size":49831,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/l/LivingDaylightsThe(AltaTension)(IBSA).jpg"},{"filename":"LivingDaylightsThe.jpg","size":226168,"type":"Advertisement","url":"/pub/sinclair/games-adverts/l/LivingDaylightsThe.jpg"},{"filename":"LivingDaylightsThe(ErbeSoftwareS.A.).jpg","size":300771,"type":"Advertisement","url":"/pub/sinclair/games-adverts/l/LivingDaylightsThe(ErbeSoftwareS.A.).jpg"},{"filename":"LivingDaylightsThe.mp3.zip","size":1211647,"type":"Sampled in-game and theme music in MP3 format","url":"/pub/sinclair/music/mp3/LivingDaylightsThe.mp3.zip"}],"magazine_1":[{"issue":"6.87","magazine_type":"CompoEntry","magazine":"Crash","page":"83","url":"/pub/sinclair/magazines/Crash/Issue41/Pages/Crash4100083.jpg"},{"issue":"7.87","magazine_type":"Full-page ad","magazine":"Crash","page":"51","url":"/pub/sinclair/magazines/Crash/Issue42/Pages/Crash4200051.jpg"},{"issue":"7.87","magazine_type":"Full-page ad","magazine":"Computer & Video Games","page":"87","url":"/pub/sinclair/magazines/C+VG/Issue069/Pages/CVG06900087.jpg"},{"issue":"7.87","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"3","url":"/pub/sinclair/magazines/SinclairUser/Issue064/Pages/SinclairUser06400003.jpg"},{"issue":"8.87","magazine_type":"Full-page ad","magazine":"Crash","page":"61","url":"/pub/sinclair/magazines/Crash/Issue43/Pages/Crash4300061.jpg"},{"issue":"8.87","magazine_type":"Full-page ad","magazine":"Computer & Video Games","page":"20","url":"/pub/sinclair/magazines/C+VG/Issue070/Pages/CVG07000020.jpg"},{"issue":"8.87","magazine_type":"CompoEntry","magazine":"Computer & Video Games","page":"62","url":"/pub/sinclair/magazines/C+VG/Issue070/Pages/CVG07000062.jpg"},{"issue":"8.87","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"3","url":"/pub/sinclair/magazines/SinclairUser/Issue065/Pages/SinclairUser06500003.jpg"},{"issue":"9.87","magazine_type":"CompoEntry - Whistling Keyring compo","magazine":"Your Sinclair","page":"7","url":"/pub/sinclair/magazines/YourSinclair/Issue21/Pages/YourSinclair2100007.jpg"},{"issue":"9.87","magazine_type":"CompoEntry - Alba MIDI System compo","magazine":"Your Sinclair","page":"19","url":"/pub/sinclair/magazines/YourSinclair/Issue21/Pages/YourSinclair2100019.jpg"},{"issue":"3.88","magazine_type":"CompoResult - Whistling Keyring compo","magazine":"Your Sinclair","page":"97","url":"/pub/sinclair/magazines/YourSinclair/Issue27/Pages/YourSinclair2700097.jpg"},{"issue":"3.88","magazine_type":"CompoResult - Alba MIDI System compo","magazine":"Your Sinclair","page":"97","url":"/pub/sinclair/magazines/YourSinclair/Issue27/Pages/YourSinclair2700097.jpg"}],"magazine_0":[{"issue":"4.87","magazine_type":"News/Note","magazine":"Sinclair User","page":"20","url":"/pub/sinclair/magazines/SinclairUser/Issue061/Pages/SinclairUser06100020.jpg"},{"issue":"5.87","magazine_type":"News/Note","magazine":"Computer & Video Games","page":"10","url":"/pub/sinclair/magazines/C+VG/Issue067/Pages/CVG06700010.jpg"},{"issue":"5.87","magazine_type":"News/Note","magazine":"Sinclair User","page":"20","url":"/pub/sinclair/magazines/SinclairUser/Issue062/Pages/SinclairUser06200020.jpg"},{"issue":"6.87","magazine_type":"Preview","magazine":"Computer & Video Games","page":"78","url":"/pub/sinclair/magazines/C+VG/Issue068/Pages/CVG06800078.jpg"},{"issue":"7.87","magazine_type":"News/Note","magazine":"Crash","page":"7","url":"/pub/sinclair/magazines/Crash/Issue42/Pages/Crash4200007.jpg"},{"issue":"7.87","magazine_type":"Feature","magazine":"Crash","page":"86","url":"/pub/sinclair/magazines/Crash/Issue42/Pages/Crash4200086.jpg"},{"issue":"7.87","magazine_type":"Preview","magazine":"Computer & Video Games","page":"85","url":"/pub/sinclair/magazines/C+VG/Issue069/Pages/CVG06900085.jpg"},{"issue":"7.87","magazine_type":"Preview","magazine":"Sinclair User","page":"89","url":"/pub/sinclair/magazines/SinclairUser/Issue064/Pages/SinclairUser06400089.jpg"},{"issue":"7.87","magazine_type":"News/Note","magazine":"Your Computer","page":"11","url":"/pub/sinclair/magazines/YourComputer/Issue8707/Pages/YourComputer870700011.jpg"},{"issue":"7.87","magazine_type":"News/Note","magazine":"Your Sinclair","page":"4","url":"/pub/sinclair/magazines/YourSinclair/Issue19/Pages/YourSinclair1900004.jpg"},{"issue":"8.87","magazine_type":"Review","magazine":"Crash","page":"94","url":"/pub/sinclair/magazines/Crash/Issue43/Pages/Crash4300094.jpg"},{"issue":"8.87","magazine_type":"Review","magazine":"Computer & Video Games","page":"14","url":"/pub/sinclair/magazines/C+VG/Issue070/Pages/CVG07000014.jpg"},{"issue":"8.87","magazine_type":"Review","magazine":"Sinclair User","page":"68","url":"/pub/sinclair/magazines/SinclairUser/Issue065/Pages/SinclairUser06500068.jpg"},{"issue":"8.87","magazine_type":"News/Note","magazine":"Your Sinclair","page":"5","url":"/pub/sinclair/magazines/YourSinclair/Issue20/Pages/YourSinclair2000005.jpg"},{"issue":"9.87","magazine_type":"Tips","magazine":"Crash","page":"56","url":"/pub/sinclair/magazines/Crash/Issue44/Pages/Crash4400056.jpg"},{"issue":"9.87","magazine_type":"Hack/Poke","magazine":"Sinclair User","page":"15","url":"/pub/sinclair/magazines/SinclairUser/Issue066/Pages/SinclairUser06600015.jpg"},{"issue":"9.87","magazine_type":"Review","magazine":"Your Sinclair","page":"25","url":"/pub/sinclair/magazines/YourSinclair/Issue21/Pages/YourSinclair2100025.jpg"},{"issue":"10.87","magazine_type":"Tips","magazine":"Crash","page":"57","url":"/pub/sinclair/magazines/Crash/Issue45/Pages/Crash4500057.jpg"},{"issue":"10.87","magazine_type":"Hack/Poke","magazine":"Crash","page":"57","url":"/pub/sinclair/magazines/Crash/Issue45/Pages/Crash4500057.jpg"},{"issue":"12.87","magazine_type":"Tips","magazine":"Your Sinclair","page":"24","url":"/pub/sinclair/magazines/YourSinclair/Issue24/Pages/YourSinclair2400024.jpg"},{"issue":"12.87","magazine_type":"Hack/Poke","magazine":"Your Sinclair","page":"24","url":"/pub/sinclair/magazines/YourSinclair/Issue24/Pages/YourSinclair2400024.jpg"},{"issue":"4.88","magazine_type":"Feature - Crash Readers Awards","magazine":"Crash","page":"58","url":"/pub/sinclair/magazines/Crash/Issue51/Pages/Crash5100058.jpg"},{"issue":"5.88","magazine_type":"Tips","magazine":"Your Sinclair","page":"29","url":"/pub/sinclair/magazines/YourSinclair/Issue29/Pages/YourSinclair2900029.jpg"},{"issue":"8.88","magazine_type":"Tips","magazine":"YS Smash Tips","page":"53","url":"/pub/sinclair/magazines/YourSinclair/SmashTips/SmashTips53.jpg"},{"issue":"8.88","magazine_type":"Hack/Poke","magazine":"YS Smash Tips","page":"53","url":"/pub/sinclair/magazines/YourSinclair/SmashTips/SmashTips53.jpg"},{"issue":"12.88","magazine_type":"Hack/Poke","magazine":"Crash","page":"60","url":"/pub/sinclair/magazines/Crash/Issue59/Pages/Crash5900060.jpg"},{"issue":"1.92","magazine_type":"Tips","magazine":"Crash","page":"46","url":"/pub/sinclair/magazines/Crash/Issue95/Pages/Crash9500046.jpg"},{"issue":"10.87","magazine_type":"Nuevo","magazine":"MicroHobby","page":"10","url":"/pub/sinclair/magazines/MicroHobby/Issue149/Pages/MicroHobby14900010.jpg"},{"issue":"11.87","magazine_type":"Tokes","magazine":"MicroHobby","page":"25","url":"/pub/sinclair/magazines/MicroHobby/Issue152/Pages/MicroHobby15200025.jpg"},{"issue":"12.87","magazine_type":"Justicieros","magazine":"MicroHobby","page":"31","url":"/pub/sinclair/magazines/MicroHobby/Issue158/Pages/MicroHobby15800031.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000008","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000008","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/disks.html","anchor":"Spy Who Loved Me, The"},"fulltitle":"Spy Who Loved Me, The","yearofrelease":1990,"publisher":{"name":"Domark Ltd","country":"UK"},"rereleasedby":[{"country":"Spain","as":"as 'Espia Que Me Amo, La'","name":"Erbe Software S.A."},{"country":"Spain","as":"as 'Espia Que Me Amo, La'","name":"Musical 1 S.A."}],"authors":{"group":"The Kremlin ","authors":["Matt Furniss"]},"tieinlicence":"United Artists Inc (USA) / Eon Productions (UK) (movie: Spy Who Loved Me, The)","machinetype":"ZX Spectrum 48K/128K","numberofplayers":1,"controls":["Interface 2","Keyboard","Kempston"],"type":"Arcade: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":-1.0,"currency":"N/A"},{"amount":1100.0,"currency":"ptas."}],"budgetprice":[{"amount":3.99,"currency":"Â£"}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"None","additional":[{"type":"compilation","info":"Appeared on side B of the compilation","target":"James Bond 007 Collection, The"},{"type":"compilation","info":"Appeared on the compilation","target":"Superheroes"},{"info":"Also listed on Freebase"}],"series":"This game belongs in the following series: \n 1. View to a Kill - The Computer Game, A \n 2. Living Daylights - The Computer Game, The \n 3. Live and Let Die \n 4. Licence to Kill \n 5. Spy Who Loved Me, The","othersystems":"This title was also advertised for and/or published on the Amstrad CPC and Commodore 64","score":{"score":6.79,"votes":14},"downloads":[{"filename":"SpyWhoLovedMeThe.tzx.zip","code":"","size":44845,"origin":"Original release","dl":"","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/s/SpyWhoLovedMeThe.tzx.zip"},{"filename":"SpyWhoLovedMeThe.dsk.zip","code":"","size":74892,"origin":"Original release","dl":"","type":"+3 disk image","barcode":"","url":"/pub/sinclair/games/s/SpyWhoLovedMeThe.dsk.zip"},{"filename":"SpyWhoLovedMeThe.tap.zip","code":"","size":44554,"origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/s/SpyWhoLovedMeThe.tap.zip"},{"filename":"SpyWhoLovedMeThe(DoubleCase)(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).tzx.zip","code":"SE625","size":46037,"origin":"Re-release","dl":"M-31892-1990","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/s/SpyWhoLovedMeThe(DoubleCase)(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).tzx.zip"},{"filename":"SpyWhoLovedMeThe(TheHitSquad).tzx.zip","code":"MC23","size":44900,"origin":"Re-release","dl":"","type":"Perfect TZX tape image","barcode":"5013156412592","url":"/pub/sinclair/games/s/SpyWhoLovedMeThe(TheHitSquad).tzx.zip"}],"additionals":[{"filename":"SpyWhoLovedMeThe.gif","size":1571,"type":"Loading screen","url":"/pub/sinclair/screens/load/s/gif/SpyWhoLovedMeThe.gif"},{"filename":"SpyWhoLovedMeThe.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/s/scr/SpyWhoLovedMeThe.scr"},{"filename":"SpyWhoLovedMeThe.gif","size":7641,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/s/SpyWhoLovedMeThe.gif"},{},{"filename":"SpyWhoLovedMeThe.txt","size":5383,"type":"English instructions","url":"/pub/sinclair/games-info/s/SpyWhoLovedMeThe.txt"},{"filename":"SpyWhoLovedMeThe(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).pdf","size":14939,"type":"Spanish instructions","url":"/pub/sinclair/games-info/s/SpyWhoLovedMeThe(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).pdf"},{"filename":"SpyWhoLovedMeThe.png","size":481361,"type":"Game map","url":"/pub/sinclair/games-maps/s/SpyWhoLovedMeThe.png"},{"filename":"SpyWhoLovedMeThe.jpg","size":72651,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/s/SpyWhoLovedMeThe.jpg"},{"filename":"SpyWhoLovedMeThe(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).jpg","size":193550,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/s/SpyWhoLovedMeThe(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).jpg"},{"filename":"SpyWhoLovedMeThe(EspiaQueMeAmoLa)(Musical1S.A.).jpg","size":67441,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/s/SpyWhoLovedMeThe(EspiaQueMeAmoLa)(Musical1S.A.).jpg"},{"filename":"SpyWhoLovedMeThe(TheHitSquad).jpg","size":125642,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/s/SpyWhoLovedMeThe(TheHitSquad).jpg"},{"filename":"SpyWhoLovedMeThe.jpg","size":242221,"type":"Advertisement","url":"/pub/sinclair/games-adverts/s/SpyWhoLovedMeThe.jpg"},{"filename":"SpyWhoLovedMeThe(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).jpg","size":354930,"type":"Advertisement","url":"/pub/sinclair/games-adverts/s/SpyWhoLovedMeThe(EspiaQueMeAmoLa)(ErbeSoftwareS.A.).jpg"}],"magazine_1":[{"issue":"10.90","magazine_type":"Full-page ad","magazine":"ACE","page":"79","url":"/pub/sinclair/magazines/ACE/Issue37/Pages/ACE3700079.jpg"},{"issue":"10.90","magazine_type":"Full-page ad","magazine":"Computer & Video Games","page":"11","url":"/pub/sinclair/magazines/C+VG/Issue107/Pages/CVG10700011.jpg"},{"issue":"10.90","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"17","url":"/pub/sinclair/magazines/SinclairUser/Issue104/Pages/SinclairUser10400017.jpg"},{"issue":"10.90","magazine_type":"Full-page ad","magazine":"Your Sinclair","page":"9","url":"/pub/sinclair/magazines/YourSinclair/Issue58/Pages/YourSinclair5800009.jpg"},{"issue":"10.90","magazine_type":"CompoEntry","magazine":"Your Sinclair","page":"17","url":"/pub/sinclair/magazines/YourSinclair/Issue58/Pages/YourSinclair5800017.jpg"},{"issue":"1.91","magazine_type":"CompoResult","magazine":"Your Sinclair","page":"56","url":"/pub/sinclair/magazines/YourSinclair/Issue61/Pages/YourSinclair6100056.jpg"}],"magazine_0":[{"issue":"2.90","magazine_type":"News/Note","magazine":"Crash","page":"19","url":"/pub/sinclair/magazines/Crash/Issue73/Pages/Crash7300019.jpg"},{"issue":"2.90","magazine_type":"News/Note","magazine":"Computer & Video Games","page":"8","url":"/pub/sinclair/magazines/C+VG/Issue099/Pages/CVG09900008.jpg"},{"issue":"3.90","magazine_type":"News/Note","magazine":"ACE","page":"8","url":"/pub/sinclair/magazines/ACE/Issue30/Pages/ACE3000008.jpg"},{"issue":"5.90","magazine_type":"News/Note","magazine":"Your Sinclair","page":"8","url":"/pub/sinclair/magazines/YourSinclair/Issue53/Pages/YourSinclair5300008.jpg"},{"issue":"6.90","magazine_type":"News/Note","magazine":"ACE","page":"9","url":"/pub/sinclair/magazines/ACE/Issue33/Pages/ACE3300009.jpg"},{"issue":"7.90","magazine_type":"Preview","magazine":"Computer & Video Games","page":"108","url":"/pub/sinclair/magazines/C+VG/Issue104/Pages/CVG10400108.jpg"},{"issue":"8.90","magazine_type":"Preview","magazine":"Crash","page":"8","url":"/pub/sinclair/magazines/Crash/Issue79/Pages/Crash7900008.jpg"},{"issue":"8.90","magazine_type":"Preview","magazine":"Games Machine","page":"12","url":"/pub/sinclair/magazines/TheGamesMachine/Issue33/Pages/TheGamesMachine3300012.jpg"},{"issue":"9.90","magazine_type":"News/Note","magazine":"ACE","page":"11","url":"/pub/sinclair/magazines/ACE/Issue36/Pages/ACE3600011.jpg"},{"issue":"10.90","magazine_type":"Preview","magazine":"ACE","page":"63","url":"/pub/sinclair/magazines/ACE/Issue37/Pages/ACE3700063.jpg"},{"issue":"9.90","magazine_type":"Preview","magazine":"Your Sinclair","page":"69","url":"/pub/sinclair/magazines/YourSinclair/Issue57/Pages/YourSinclair5700069.jpg"},{"issue":"11.90","magazine_type":"Review","magazine":"Crash","page":"49","url":"/pub/sinclair/magazines/Crash/Issue82/Pages/Crash8200049.jpg"},{"issue":"11.90","magazine_type":"Review","magazine":"Sinclair User","page":"20","url":"/pub/sinclair/magazines/SinclairUser/Issue105/Pages/SinclairUser10500020.jpg"},{"issue":"11.90","magazine_type":"Review","magazine":"Your Sinclair","page":"58","url":"/pub/sinclair/magazines/YourSinclair/Issue59/Pages/YourSinclair5900058.jpg"},{"issue":"12.90","magazine_type":"Review - not a Spectrum article","magazine":"ACE","page":"83","url":"/pub/sinclair/magazines/ACE/Issue39/Pages/ACE3900083.jpg"},{"issue":"2.91","magazine_type":"Hack/Poke","magazine":"Your Sinclair","page":"37","url":"/pub/sinclair/magazines/YourSinclair/Issue62/Pages/YourSinclair6200037.jpg"},{"issue":"3.91","magazine_type":"Tips","magazine":"Your Sinclair","page":"36","url":"/pub/sinclair/magazines/YourSinclair/Issue63/Pages/YourSinclair6300036.jpg"},{"issue":"5.91","magazine_type":"Tips","magazine":"Crash","page":"31","url":"/pub/sinclair/magazines/Crash/Issue88/Pages/Crash8800031.jpg"},{"issue":"1.92","magazine_type":"Tips","magazine":"Crash","page":"46","url":"/pub/sinclair/magazines/Crash/Issue95/Pages/Crash9500046.jpg"},{"issue":"7.92","magazine_type":"Review","magazine":"Your Sinclair","page":"58","url":"/pub/sinclair/magazines/YourSinclair/Issue79/Pages/YourSinclair7900058.jpg"},{"issue":"8.92","magazine_type":"Tips","magazine":"Your Sinclair","page":"33","url":"/pub/sinclair/magazines/YourSinclair/Issue80/Pages/YourSinclair8000033.jpg"},{"issue":"11.90","magazine_type":"Nuevo","magazine":"MicroHobby","page":"38","url":"/pub/sinclair/magazines/MicroHobby/Issue204/Pages/MicroHobby20400038.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000009","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000009","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/tieins.html","anchor":"View to a Kill - The Computer Game, A"},"fulltitle":"View to a Kill - The Computer Game, A","alsoknownas":"View to a Kill, A","yearofrelease":1985,"publisher":{"name":"Domark Ltd","country":"UK"},"rereleasedby":[{"country":"UK","name":"Bug-Byte Software Ltd"}],"authors":{"group":"Tigress Marketing Ltd (David Bishop, Chris Palmer), Softstone Ltd ","authors":["Tony Knight","Daryl Bowers","Gary Burfield-Wallis","Grant Harrison","Gary Knight","Argentino Trombin","Nichola Blades","Robert Ritson","Tony Crowther","David Aubrey-Jones"]},"tieinlicence":"United Artists Inc (USA) / Eon Productions (UK) (movie: View to a Kill, A)","machinetype":"ZX Spectrum 48K","numberofplayers":1,"controls":["Cursor","Keyboard","Kempston"],"type":"Arcade: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":10.99,"currency":"Â£"},{"amount":2900.0,"currency":"ptas."}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"None","additional":[{"type":"compilation","info":"Appeared on side B of the compilation","target":"Now Games 3"},{"type":"compilation","info":"Appeared on side A of the compilation","target":"Thriller Pack, The"},{"info":"This title has known errors"},{"info":"Also listed on Freebase"}],"series":"This game belongs in the following series: \n 1. View to a Kill - The Computer Game, A \n 2. Living Daylights - The Computer Game, The \n 3. Live and Let Die \n 4. Licence to Kill \n 5. Spy Who Loved Me, The","othersystems":"This title was also advertised for and/or published on the Amstrad CPC, Commodore 64 and MSX","score":{"score":4.67,"votes":26},"downloads":[{"filename":"ViewToAKill-TheComputerGameA.tzx.zip","code":"","size":70959,"origin":"Original release","dl":"","type":"Perfect TZX tape image","barcode":"9781851600014","url":"/pub/sinclair/games/v/ViewToAKill-TheComputerGameA.tzx.zip"},{"filename":"ViewToAKill-TheComputerGameA(BUGFIX).tzx.zip","code":"","size":71037,"origin":"Original release","dl":"","type":"Perfect TZX tape image","barcode":"9781851600014","url":"/pub/sinclair/games/v/ViewToAKill-TheComputerGameA(BUGFIX).tzx.zip"},{"filename":"ViewToAKill-TheComputerGameA.tap.zip","code":"","size":72767,"origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/v/ViewToAKill-TheComputerGameA.tap.zip"},{"filename":"ViewToAKill-TheComputerGameA(Bug-ByteSoftwareLtd).tzx.zip","code":"","size":69842,"origin":"Re-release","dl":"","type":"Perfect TZX tape image","barcode":"5013248001482","url":"/pub/sinclair/games/v/ViewToAKill-TheComputerGameA(Bug-ByteSoftwareLtd).tzx.zip"}],"additionals":[{"filename":"ViewToAKillA.gif","size":3589,"type":"Loading screen","url":"/pub/sinclair/screens/load/v/gif/ViewToAKillA.gif"},{"filename":"ViewToAKillA.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/v/scr/ViewToAKillA.scr"},{"filename":"ViewToAKillA.gif","size":3116,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/v/ViewToAKillA.gif"},{},{"filename":"ViewToAKillA.pdf","size":291231,"type":"English instructions","url":"/pub/sinclair/games-info/v/ViewToAKillA.pdf"},{"filename":"ViewToAKillA.txt","size":12093,"type":"English instructions","url":"/pub/sinclair/games-info/v/ViewToAKillA.txt"},{"filename":"ViewToAKillA_Symbols.jpg","size":29619,"type":"English instructions","url":"/pub/sinclair/games-info/v/ViewToAKillA_Symbols.jpg"},{"filename":"ViewToAKillA(SermaSoftware).pdf","size":96492,"type":"Spanish instructions","url":"/pub/sinclair/games-info/v/ViewToAKillA(SermaSoftware).pdf"},{"filename":"ViewToAKillA(SermaSoftware).txt","size":12373,"type":"Spanish instructions","url":"/pub/sinclair/games-info/v/ViewToAKillA(SermaSoftware).txt"},{"filename":"ViewToAKillA(VirginGamesLtd).txt","size":8512,"type":"English instructions","url":"/pub/sinclair/games-info/v/ViewToAKillA(VirginGamesLtd).txt"},{"filename":"ViewToAKillA.png","size":104427,"type":"Game map","url":"/pub/sinclair/games-maps/v/ViewToAKillA.png"},{"filename":"ViewToAKillA.jpg","size":182748,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/v/ViewToAKillA.jpg"},{"filename":"ViewToAKillA(Bug-ByteSoftwareLtd).png","size":447235,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/v/ViewToAKillA(Bug-ByteSoftwareLtd).png"},{"filename":"ViewToAKillA.jpg","size":153655,"type":"Advertisement","url":"/pub/sinclair/games-adverts/v/ViewToAKillA.jpg"},{"filename":"ViewToAKillA(SermaSoftware).jpg","size":300429,"type":"Advertisement","url":"/pub/sinclair/games-adverts/v/ViewToAKillA(SermaSoftware).jpg"},{"filename":"ViewToAKillA_Poster.jpg","size":1116903,"type":"Poster","url":"/pub/sinclair/games-extras/ViewToAKillA_Poster.jpg"}],"magazine_1":[{"issue":"6.85","magazine_type":"Full-page ad","magazine":"Computer Gamer","page":"27","url":"/pub/sinclair/magazines/ComputerGamer/Issue03/Pages/ComputerGamer0300027.jpg"},{"issue":"6.85","magazine_type":"Full-page ad","magazine":"Crash","page":"91","url":"/pub/sinclair/magazines/Crash/Issue17/Pages/Crash1700091.jpg"},{"issue":"6.85","magazine_type":"Full-page ad","magazine":"Home Computing Weekly","page":"109","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue115/Pages/HomeComputingWeekly11500009.jpg"},{"issue":"6.85","magazine_type":"Full-page ad","magazine":"Home Computing Weekly","page":"207","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue116/Pages/HomeComputingWeekly11600007.jpg"},{"issue":"6.85","magazine_type":"Full-page ad","magazine":"Popular Computing Weekly","page":"134","url":"/pub/sinclair/magazines/PopularComputingWeekly/Issue850606/Pages/PopularComputingWeekly85060600034.jpg"},{"issue":"6.85","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"108","url":"/pub/sinclair/magazines/SinclairUser/Issue039/Pages/SinclairUser03900108.jpg"},{"issue":"7.85","magazine_type":"Full-page ad","magazine":"Computer Gamer","page":"9","url":"/pub/sinclair/magazines/ComputerGamer/Issue04/Pages/ComputerGamer0400009.jpg"},{"issue":"7.85","magazine_type":"Full-page ad","magazine":"Crash","page":"79","url":"/pub/sinclair/magazines/Crash/Issue18/Pages/Crash1800079.jpg"},{"issue":"7.85","magazine_type":"CompoEntry","magazine":"Computer & Video Games","page":"12","url":"/pub/sinclair/magazines/C+VG/Issue045/Pages/CVG04500012.jpg"},{"issue":"7.85","magazine_type":"Full-page ad","magazine":"Computer & Video Games","page":"110","url":"/pub/sinclair/magazines/C+VG/Issue045/Pages/CVG04500110.jpg"},{"issue":"7.85","magazine_type":"Full-page ad","magazine":"Home Computing Weekly","page":"247","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue120/Pages/HomeComputingWeekly12000047.jpg"},{"issue":"7.85","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"42","url":"/pub/sinclair/magazines/SinclairUser/Issue040/Pages/SinclairUser04000042.jpg"},{"issue":"7.85","magazine_type":"Full-page ad","magazine":"Your Spectrum","page":"11","url":"/pub/sinclair/magazines/YourSpectrum/Issue16/Pages/YourSpectrum1600011.jpg"},{"issue":"8.85","magazine_type":"Full-page ad","magazine":"Computer Gamer","page":"33","url":"/pub/sinclair/magazines/ComputerGamer/Issue05/Pages/ComputerGamer0500033.jpg"},{"issue":"8.85","magazine_type":"Full-page ad","magazine":"Crash","page":"89","url":"/pub/sinclair/magazines/Crash/Issue19/Pages/Crash1900089.jpg"},{"issue":"8.85","magazine_type":"Advert","magazine":"Computer & Video Games","page":"9","url":"/pub/sinclair/magazines/C+VG/Issue046/Pages/CVG04600009.jpg"},{"issue":"8.85","magazine_type":"Full-page ad","magazine":"Computer & Video Games","page":"77","url":"/pub/sinclair/magazines/C+VG/Issue046/Pages/CVG04600077.jpg"},{"issue":"8.85","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"67","url":"/pub/sinclair/magazines/SinclairUser/Issue041/Pages/SinclairUser04100067.jpg"},{"issue":"8.85","magazine_type":"Full-page ad","magazine":"Your Spectrum","page":"7","url":"/pub/sinclair/magazines/YourSpectrum/Issue17/Pages/YourSpectrum1700007.jpg"},{"issue":"8.85","magazine_type":"Full-page ad","magazine":"ZX Computing","page":"124","url":"/pub/sinclair/magazines/ZXComputing/Issue8508/Pages/ZXComputing850800124.jpg"},{"issue":"9.85","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"13","url":"/pub/sinclair/magazines/SinclairUser/Issue042/Pages/SinclairUser04200013.jpg"},{"issue":"10.85","magazine_type":"CompoResult","magazine":"Computer & Video Games","page":"77","url":"/pub/sinclair/magazines/C+VG/Issue048/Pages/CVG04800077.jpg"},{"issue":"10.85","magazine_type":"Full-page ad","magazine":"Your Spectrum","page":"16","url":"/pub/sinclair/magazines/YourSpectrum/Issue19/Pages/YourSpectrum1900016.jpg"}],"magazine_0":[{"issue":"2.85","magazine_type":"News/Note","magazine":"Popular Computing Weekly","page":"301","url":"/pub/sinclair/magazines/PopularComputingWeekly/Issue850221/Pages/PopularComputingWeekly85022100001.jpg"},{"issue":"3.85","magazine_type":"News/Note","magazine":"Home Computing Weekly","page":"101","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue102/Pages/HomeComputingWeekly10200001.jpg"},{"issue":"5.85","magazine_type":"Feature - The Bond Diary","magazine":"Computer & Video Games","page":"25","url":"/pub/sinclair/magazines/C+VG/Issue043/Pages/CVG04300025.jpg"},{"issue":"5.85","magazine_type":"News/Note","magazine":"Home Computing Weekly","page":"205","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue112/Pages/HomeComputingWeekly11200005.jpg"},{"issue":"6.85","magazine_type":"Feature - The Bond Diary","magazine":"Computer & Video Games","page":"106","url":"/pub/sinclair/magazines/C+VG/Issue044/Pages/CVG04400106.jpg"},{"issue":"6.85","magazine_type":"News/Note","magazine":"Home Computing Weekly","page":"308","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue117/Pages/HomeComputingWeekly11700008.jpg"},{"issue":"6.85","magazine_type":"News/Note","magazine":"Sinclair User","page":"7","url":"/pub/sinclair/magazines/SinclairUser/Issue039/Pages/SinclairUser03900007.jpg"},{"issue":"6.85","magazine_type":"Feature - Spin-Offs","magazine":"Your Computer","page":"44","url":"/pub/sinclair/magazines/YourComputer/Issue8506/Pages/YourComputer850600044.jpg"},{"issue":"7.85","magazine_type":"Feature","magazine":"Computer Gamer","page":"12","url":"/pub/sinclair/magazines/ComputerGamer/Issue04/Pages/ComputerGamer0400012.jpg"},{"issue":"7.85","magazine_type":"Review","magazine":"Crash","page":"18","url":"/pub/sinclair/magazines/Crash/Issue18/Pages/Crash1800018.jpg"},{"issue":"7.85","magazine_type":"Review","magazine":"Home Computing Weekly","page":"215","url":"/pub/sinclair/magazines/HomeComputingWeekly/Issue120/Pages/HomeComputingWeekly12000015.jpg"},{"issue":"7.85","magazine_type":"Review","magazine":"Popular Computing Weekly","page":"412","url":"/pub/sinclair/magazines/PopularComputingWeekly/Issue850725/Pages/PopularComputingWeekly85072500012.jpg"},{"issue":"7.85","magazine_type":"News/Note","magazine":"Sinclair Programs","page":"10","url":"/pub/sinclair/magazines/SinclairPrograms/Issue8507/Pages/SinclairPrograms850700010.jpg"},{"issue":"7.85","magazine_type":"Review","magazine":"Sinclair User","page":"20","url":"/pub/sinclair/magazines/SinclairUser/Issue040/Pages/SinclairUser04000020.jpg"},{"issue":"7.85","magazine_type":"News/Note","magazine":"Your Spectrum","page":"5","url":"/pub/sinclair/magazines/YourSpectrum/Issue16/Pages/YourSpectrum1600005.jpg"},{"issue":"8.85","magazine_type":"Feature - I, Spy ...","magazine":"Your Spectrum","page":"32","url":"/pub/sinclair/magazines/YourSpectrum/Issue17/Pages/YourSpectrum1700032.jpg"},{"issue":"8.85","magazine_type":"Hack/Poke","magazine":"Your Spectrum","page":"35","url":"/pub/sinclair/magazines/YourSpectrum/Issue17/Pages/YourSpectrum1700035.jpg"},{"issue":"9.85","magazine_type":"Tips","magazine":"Crash","page":"64","url":"/pub/sinclair/magazines/Crash/Issue20/Pages/Crash2000064.jpg"},{"issue":"9.85","magazine_type":"Review","magazine":"Computer & Video Games","page":"26","url":"/pub/sinclair/magazines/C+VG/Issue047/Pages/CVG04700026.jpg"},{"issue":"10.85","magazine_type":"Letter","magazine":"Your Spectrum","page":"20","url":"/pub/sinclair/magazines/YourSpectrum/Issue19/Pages/YourSpectrum1900020.jpg"},{"issue":"11.85","magazine_type":"Tips","magazine":"Crash","page":"104","url":"/pub/sinclair/magazines/Crash/Issue22/Pages/Crash2200104.jpg"},{"issue":"1.86","magazine_type":"Tips","magazine":"Computer & Video Games","page":"64","url":"/pub/sinclair/magazines/C+VG/Issue051/Pages/CVG05100064.jpg"},{"issue":"1.86","magazine_type":"Tips","magazine":"Popular Computing Weekly","page":"526","url":"/pub/sinclair/magazines/PopularComputingWeekly/Issue860130/Pages/PopularComputingWeekly86013000026.jpg"},{"issue":"1.86","magazine_type":"Tips","magazine":"Sinclair User","page":"18","url":"/pub/sinclair/magazines/SinclairUser/Issue046/Pages/SinclairUser04600018.jpg"},{"issue":"1.86","magazine_type":"Hack/Poke","magazine":"Your Computer","page":"91","url":"/pub/sinclair/magazines/YourComputer/Issue8601/Pages/YourComputer860100091.jpg"},{"issue":"12.86","magazine_type":"Tips","magazine":"Computer & Video Games","page":"101","url":"/pub/sinclair/magazines/C+VG/Issue062/Pages/CVG06200101.jpg"},{"issue":"7.88","magazine_type":"Feature - Licence To Thrill?","magazine":"ACE","page":"31","url":"/pub/sinclair/magazines/ACE/Issue10/Pages/ACE1000031.jpg"},{"issue":"8.88","magazine_type":"Tips","magazine":"YS Smash Tips","page":"1","url":"/pub/sinclair/magazines/YourSinclair/SmashTips/SmashTips01.jpg"},{"issue":"8.88","magazine_type":"Hack/Poke","magazine":"YS Smash Tips","page":"1","url":"/pub/sinclair/magazines/YourSinclair/SmashTips/SmashTips01.jpg"},{"issue":"5.87","magazine_type":"Tokes","magazine":"MicroHobby","page":"15","url":"/pub/sinclair/magazines/MicroHobby/Issue130/Pages/MicroHobby13000015.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000010","_version":2,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000010","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/games/1.html","anchor":"100 Kilometri"},"fulltitle":"100 Kilometri","alsoknownas":"100 KM","yearofrelease":1986,"publisher":{"name":"Load 'n' Run [IT]","country":"Italy"},"authors":{"authors":["Francesco Fantazzini","Federico Fantazzini"]},"machinetype":"ZX Spectrum 48K","numberofplayers":1,"controls":["Keyboard"],"type":"Arcade: Race 'n' Chase","messagelanguage":"Italian","originalpublication":"On magazine covertape","availability":"Available","protectionscheme":"None","remarks":"Appeared on issue 28.","score":{"score":3.18,"votes":11},"downloads":[{"filename":"100Kilometri.tzx.zip","code":"","size":20641,"origin":"Original release","dl":"","type":"TZX tape image","barcode":"","url":"/pub/sinclair/games/123/100Kilometri.tzx.zip"}],"additionals":[{"filename":"100Kilometri.gif","size":3562,"type":"Loading screen","url":"/pub/sinclair/screens/load/123/gif/100Kilometri.gif"},{"filename":"100Kilometri.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/123/scr/100Kilometri.scr"},{"filename":"100Kilometri.gif","size":5409,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/123/100Kilometri.gif"},{},{"filename":"100Kilometri.png","size":174065,"type":"Game map","url":"/pub/sinclair/games-maps/123/100Kilometri.png"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000011","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000011","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/games/1.html","anchor":"10th Frame"},"fulltitle":"10th Frame","yearofrelease":1987,"publisher":{"name":"US Gold Ltd","country":"UK"},"rereleasedby":[{"country":"Spain","name":"Erbe Software S.A."}],"authors":{"group":"Paragon Programming Ltd ","authors":["John Prince","Donald J. Campbell"]},"tieinlicence":"Access Software Inc (USA) (original game: 10th Frame)","machinetype":"ZX Spectrum 48K","numberofplayers":4,"multiplayermode":"turn based","controls":["Interface 2","Keyboard","Kempston"],"type":"Sport: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":8.99,"currency":"Â£"}],"budgetprice":[{"amount":2.99,"currency":"Â£"}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"Alkatraz Protection System","additional":[{"type":"compilation","info":"Appeared on tape 1, side A of the compilation","target":"10 Great Games 3"},{"type":"compilation","info":"Appeared on tape 1, side A of the compilation","target":"Command Performance"},{"type":"compilation","info":"Appeared on tape 2, side A of the compilation","target":"Play It Again"},{"type":"compilation","info":"Appeared on the compilation","target":"Summer Gold"},{"type":"covertape","info":"Appeared on side A of covertape","target":"SU issue 106: Six of the Best 2"},{"type":"covertape","info":"Appeared on side A of covertape","target":"YS issue 65: Magnificent Seven 2"},{"info":"Also listed on Wikipedia and Freebase"}],"spotcomments":"Your Sinclair cover game; Sinclair User cover game; 10 pin bowling","othersystems":"This title was also advertised for and/or published on the Amstrad CPC, Commodore 64 and MSX","score":{"score":6.82,"votes":35},"downloads":[{"filename":"10thFrame.tzx.zip","code":"","size":45881,"year":"1987","origin":"Original release","dl":"","type":"Perfect TZX tape image","barcode":"5013442533888","url":"/pub/sinclair/games/123/10thFrame.tzx.zip"},{"filename":"10thFrame.tap.zip","code":"","size":19533,"year":"1987","origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/123/10thFrame.tap.zip"},{"filename":"10thFrame(ErbeSoftwareS.A.).tzx.zip","code":"","size":45970,"year":"1987","origin":"Re-release","dl":"M-3681-1987","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/123/10thFrame(ErbeSoftwareS.A.).tzx.zip"},{"filename":"10thFrame(Kixx).tzx.zip","code":"","size":45927,"year":"1988","origin":"Re-release","dl":"","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/123/10thFrame(Kixx).tzx.zip"}],"additionals":[{"filename":"10thFrame.gif","size":3970,"type":"Loading screen","url":"/pub/sinclair/screens/load/123/gif/10thFrame.gif"},{"filename":"10thFrame.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/123/scr/10thFrame.scr"},{"filename":"10thFrame.gif","size":5114,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/123/10thFrame.gif"},{},{"filename":"10thFrame.pdf","size":32194,"type":"English instructions","url":"/pub/sinclair/games-info/123/10thFrame.pdf"},{"filename":"10thFrame.txt","size":8104,"type":"English instructions","url":"/pub/sinclair/games-info/123/10thFrame.txt"},{"filename":"10thFrame.jpg","size":72598,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/123/10thFrame.jpg"},{"filename":"10thFrame(ErbeSoftwareS.A.).jpg","size":193899,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/123/10thFrame(ErbeSoftwareS.A.).jpg"},{"filename":"10thFrame.jpg","size":209820,"type":"Advertisement","url":"/pub/sinclair/games-adverts/123/10thFrame.jpg"}],"magazine_1":[{"issue":"2.87","magazine_type":"Full-page ad","magazine":"Computer Gamer","page":"12","url":"/pub/sinclair/magazines/ComputerGamer/Issue23/Pages/ComputerGamer2300012.jpg"},{"issue":"2.87","magazine_type":"Full-page ad","magazine":"Crash","page":"131","url":"/pub/sinclair/magazines/Crash/Issue37/Pages/Crash3700131.jpg"},{"issue":"2.87","magazine_type":"Full-page ad","magazine":"Computer & Video Games","page":"92","url":"/pub/sinclair/magazines/C+VG/Issue064/Pages/CVG06400092.jpg"},{"issue":"3.87","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"60","url":"/pub/sinclair/magazines/SinclairUser/Issue060/Pages/SinclairUser06000060.jpg"},{"issue":"3.87","magazine_type":"Full-page ad","magazine":"Your Sinclair","page":"97","url":"/pub/sinclair/magazines/YourSinclair/Issue15/Pages/YourSinclair1500097.jpg"},{"issue":"4.87","magazine_type":"Full-page ad","magazine":"Sinclair User","page":"63","url":"/pub/sinclair/magazines/SinclairUser/Issue061/Pages/SinclairUser06100063.jpg"},{"issue":"1.89","magazine_type":"Advert - Kixx advert","magazine":"Crash","page":"17","url":"/pub/sinclair/magazines/Crash/Issue60/Pages/Crash6000017.jpg"}],"magazine_0":[{"issue":"1.87","magazine_type":"News/Note","magazine":"Computer & Video Games","page":"8","url":"/pub/sinclair/magazines/C+VG/Issue063/Pages/CVG06300008.jpg"},{"issue":"2.87","magazine_type":"News/Note","magazine":"Computer Gamer","page":"5","url":"/pub/sinclair/magazines/ComputerGamer/Issue23/Pages/ComputerGamer2300005.jpg"},{"issue":"3.87","magazine_type":"Review","magazine":"Crash","page":"30","url":"/pub/sinclair/magazines/Crash/Issue38/Pages/Crash3800030.jpg"},{"issue":"3.87","magazine_type":"Review","magazine":"Computer & Video Games","page":"14","url":"/pub/sinclair/magazines/C+VG/Issue065/Pages/CVG06500014.jpg"},{"issue":"3.87","magazine_type":"News/Note","magazine":"Your Computer","page":"23","url":"/pub/sinclair/magazines/YourComputer/Issue8703/Pages/YourComputer870300023.jpg"},{"issue":"3.87","magazine_type":"News/Note","magazine":"Your Sinclair","page":"6","url":"/pub/sinclair/magazines/YourSinclair/Issue15/Pages/YourSinclair1500006.jpg"},{"issue":"3.87","magazine_type":"Feature - YS Sports Special - G'Day Sport","magazine":"Your Sinclair","page":"33","url":"/pub/sinclair/magazines/YourSinclair/Issue15/Pages/YourSinclair1500033.jpg"},{"issue":"4.87","magazine_type":"Review","magazine":"Computer Gamer","page":"61","url":"/pub/sinclair/magazines/ComputerGamer/Issue25/Pages/ComputerGamer2500061.jpg"},{"issue":"4.87","magazine_type":"Review","magazine":"Sinclair User","page":"50","url":"/pub/sinclair/magazines/SinclairUser/Issue061/Pages/SinclairUser06100050.jpg"},{"issue":"4.87","magazine_type":"Review","magazine":"Your Sinclair","page":"62","url":"/pub/sinclair/magazines/YourSinclair/Issue16/Pages/YourSinclair1600062.jpg"},{"issue":"4.87","magazine_type":"Review","magazine":"ZX Computing","page":"40","url":"/pub/sinclair/magazines/ZXComputing/Issue8704/Pages/ZXComputing870400040.jpg"},{"issue":"11.88","magazine_type":"Review","magazine":"Crash","page":"111","url":"/pub/sinclair/magazines/Crash/Issue58/Pages/Crash5800111.jpg"},{"issue":"1.89","magazine_type":"Review","magazine":"Your Sinclair","page":"122","url":"/pub/sinclair/magazines/YourSinclair/Issue37/Pages/YourSinclair3700122.jpg"},{"issue":"12.90","magazine_type":"CoverGame","magazine":"Sinclair User","page":"10","url":"/pub/sinclair/magazines/SinclairUser/Issue106/Pages/SinclairUser10600010.jpg"},{"issue":"3.91","magazine_type":"Tips","magazine":"Sinclair User","page":"18","url":"/pub/sinclair/magazines/SinclairUser/Issue109/Pages/SinclairUser10900018.jpg"},{"issue":"5.91","magazine_type":"CoverGame","magazine":"Your Sinclair","page":"9","url":"/pub/sinclair/magazines/YourSinclair/Issue65/Pages/YourSinclair6500009.jpg"},{"issue":"8.91","magazine_type":"Tips","magazine":"Your Sinclair","page":"28","url":"/pub/sinclair/magazines/YourSinclair/Issue68/Pages/YourSinclair6800028.jpg"},{"issue":"4.87","magazine_type":"Nuevo","magazine":"MicroHobby","page":"17","url":"/pub/sinclair/magazines/MicroHobby/Issue123/Pages/MicroHobby12300017.jpg"},{"issue":"12.87","magazine_type":"Informe","magazine":"MicroHobby Especial","page":"24","url":"/pub/sinclair/magazines/MicroHobbyEspecial/Issue07/Pages/MicroHobbyEspecial0700024.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000013","_version":2,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000013","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/games/1.html","anchor":"15 OS"},"fulltitle":"15 OS","yearofrelease":1998,"publisher":{"name":"Laszlo Nyitrai","country":"Hungary"},"authors":{"authors":["Laszlo Nyitrai"]},"machinetype":"ZX Spectrum 48K","numberofplayers":1,"controls":["Keyboard"],"type":"Puzzle","messagelanguage":"Hungarian","originalpublication":"Freeware","availability":"Available","protectionscheme":"Undetermined","score":{"score":4.17,"votes":6},"downloads":[{"filename":"15OS.z80.zip","code":"","size":21082,"origin":"","dl":"","type":"(non-TZX) Z80 snapshot image","barcode":"","url":"/pub/sinclair/games/123/15OS.z80.zip"}],"additionals":[{"filename":"15OS.gif","size":3322,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/123/15OS.gif"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000014","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000014","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/games/o.html","anchor":"One Hundred and Eighty!"},"fulltitle":"One Hundred and Eighty!","alsoknownas":"180 \n Spectral Darts","yearofrelease":1983,"publisher":{"name":"Mikro-Gen Ltd","country":"UK"},"rereleasedby":[],"machinetype":"ZX Spectrum 48K","numberofplayers":1,"controls":["Keyboard"],"type":"Sport: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":6.95,"currency":"Â£"}],"availability":"Available (only as Perfect TZX; non-TZX required)","protectionscheme":"None","additional":[{"type":"compilation","info":"Appeared on side A of the compilation","target":"Triple Decker 2"}],"score":{"score":4.12,"votes":8},"downloads":[{"filename":"OneHundredAndEighty.tzx.zip","code":"","size":8698,"origin":"Original release","dl":"","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/o/OneHundredAndEighty.tzx.zip"},{"filename":"OneHundredAndEighty(Sparklers).tzx.zip","code":"","size":8838,"origin":"Re-release","dl":"","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/o/OneHundredAndEighty(Sparklers).tzx.zip"}],"additionals":[{"filename":"OneHundredAndEighty.gif","size":5874,"type":"Loading screen","url":"/pub/sinclair/screens/load/o/gif/OneHundredAndEighty.gif"},{"filename":"OneHundredAndEighty.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/o/scr/OneHundredAndEighty.scr"},{"filename":"OneHundredAndEighty.gif","size":5797,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/o/OneHundredAndEighty.gif"},{},{"filename":"OneHundredAndEighty.jpg","size":65021,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/o/OneHundredAndEighty.jpg"},{"filename":"OneHundredAndEighty(Sparklers).jpg","size":37499,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/o/OneHundredAndEighty(Sparklers).jpg"}],"magazine_0":[{"issue":"12.83","magazine_type":"Advert","magazine":"Computer & Video Games","page":"103","url":"/pub/sinclair/magazines/C+VG/Issue026/Pages/CVG02600103.jpg"},{"issue":"12.83","magazine_type":"Advert","magazine":"Sinclair User","page":"123","url":"/pub/sinclair/magazines/SinclairUser/Issue021/Pages/SinclairUser02100123.jpg"},{"issue":"12.83","magazine_type":"Advert","magazine":"Your Computer","page":"52","url":"/pub/sinclair/magazines/YourComputer/Issue8312/Pages/YourComputer831200052.jpg"},{"issue":"12.83","magazine_type":"Advert","magazine":"ZX Computing","page":"45","url":"/pub/sinclair/magazines/ZXComputing/Issue8312/Pages/ZXComputing831200045.jpg"},{"issue":"1.84","magazine_type":"Advert - Book of Adventure","magazine":"Computer & Video Games","page":"902","url":"/pub/sinclair/magazines/C+VG/Issue027/Supplement/CVG027Supplement02.jpg"},{"issue":"1.84","magazine_type":"Advert","magazine":"Sinclair User","page":"32","url":"/pub/sinclair/magazines/SinclairUser/Issue022/Pages/SinclairUser02200032.jpg"},{"issue":"1.84","magazine_type":"Advert","magazine":"Your Computer","page":"175","url":"/pub/sinclair/magazines/YourComputer/Issue8401/Pages/YourComputer840100175.jpg"},{"issue":"1.84","magazine_type":"Advert","magazine":"Your Spectrum","page":"57","url":"/pub/sinclair/magazines/YourSpectrum/Issue01/Pages/YourSpectrum0100057.jpg"},{"issue":"2.84","magazine_type":"Advert","magazine":"Sinclair User","page":"16","url":"/pub/sinclair/magazines/SinclairUser/Issue023/Pages/SinclairUser02300016.jpg"},{"issue":"2.84","magazine_type":"Advert","magazine":"Your Computer","page":"119","url":"/pub/sinclair/magazines/YourComputer/Issue8402/Pages/YourComputer840200119.jpg"},{"issue":"2.84","magazine_type":"Advert","magazine":"ZX Computing","page":"141","url":"/pub/sinclair/magazines/ZXComputing/Issue8402/Pages/ZXComputing840200141.jpg"},{"issue":"3.84","magazine_type":"Advert","magazine":"Sinclair User","page":"32","url":"/pub/sinclair/magazines/SinclairUser/Issue024/Pages/SinclairUser02400032.jpg"},{"issue":"3.84","magazine_type":"Advert","magazine":"Your Computer","page":"15","url":"/pub/sinclair/magazines/YourComputer/Issue8403/Pages/YourComputer840300015.jpg"},{"issue":"3.84","magazine_type":"Advert","magazine":"Your Spectrum","page":"81","url":"/pub/sinclair/magazines/YourSpectrum/Issue02/Pages/YourSpectrum0200081.jpg"},{"issue":"5.84","magazine_type":"Advert","magazine":"Your Spectrum","page":"8","url":"/pub/sinclair/magazines/YourSpectrum/Issue03/Pages/YourSpectrum0300008.jpg"},{"issue":"6.84","magazine_type":"Advert","magazine":"Your Spectrum","page":"45","url":"/pub/sinclair/magazines/YourSpectrum/Issue04/Pages/YourSpectrum0400045.jpg"},{"issue":"7.84","magazine_type":"Advert","magazine":"Your Spectrum","page":"82","url":"/pub/sinclair/magazines/YourSpectrum/Issue05/Pages/YourSpectrum0500082.jpg"},{"issue":"8.84","magazine_type":"Advert","magazine":"Your Spectrum","page":"7","url":"/pub/sinclair/magazines/YourSpectrum/Issue06/Pages/YourSpectrum0600007.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000015","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000015","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/games/1.html","anchor":"180"},"fulltitle":"180","yearofrelease":1986,"publisher":{"name":"Mastertronic Added Dimension","country":"UK"},"rereleasedby":[],"authors":{"group":"Binary Design Ltd ","authors":["Garry Hughes","Ste Pickford","Jeremy Nelson","David Whittaker"]},"machinetype":"ZX Spectrum 48K/128K","numberofplayers":2,"multiplayermode":"turn based","controls":["Cursor","Interface 2","Redefineable keys","Kempston"],"type":"Sport: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":2.99,"currency":"Â£"}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"None","additional":[{"type":"compilation","info":"Appeared on tape 1, side A of the compilation","target":"Fantastic Four"},{"type":"compilation","info":"Appeared on side A of the compilation","target":"Megaplay 1"},{"info":"Also listed on Wikipedia and Freebase"}],"spotcomments":"darts","othersystems":"This title was also advertised for and/or published on the Amstrad CPC, Atari 8-bit, Commodore 64 and MSX","score":{"score":8.16,"votes":69},"downloads":[{"filename":"180_2.tzx.zip","code":"MADC6","size":23585,"year":"1986","origin":"Original release","dl":"","type":"Perfect TZX tape image","barcode":"5012967210090","url":"/pub/sinclair/games/123/180_2.tzx.zip"},{"filename":"180_2.tap.zip","code":"","size":30030,"year":"1986","origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/123/180_2.tap.zip"}],"additionals":[{"filename":"180.gif","size":5557,"type":"Loading screen","url":"/pub/sinclair/screens/load/123/gif/180.gif"},{"filename":"180.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/123/scr/180.scr"},{"filename":"180.gif","size":5601,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/123/180.gif"},{},{"filename":"180.txt","size":10892,"type":"English instructions","url":"/pub/sinclair/games-info/123/180.txt"},{"filename":"180.png","size":36317,"type":"Game map","url":"/pub/sinclair/games-maps/123/180.png"},{"filename":"180(Mastertronic).jpg","size":197675,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/123/180(Mastertronic).jpg"},{"filename":"180.ay.zip","size":1775,"type":"Ripped in-game and theme music in AY format","url":"/pub/sinclair/music/ay/games/123/180.ay.zip"},{"filename":"180.mp3.zip","size":1505662,"type":"Sampled in-game and theme music in MP3 format","url":"/pub/sinclair/music/mp3/180.mp3.zip"}],"magazine_0":[{"issue":"10.86","magazine_type":"Review","magazine":"Popular Computing Weekly","page":"533","url":"/pub/sinclair/magazines/PopularComputingWeekly/Issue861030/Pages/PopularComputingWeekly86103000033.jpg"},{"issue":"10.86","magazine_type":"News/Note","magazine":"Popular Computing Weekly","page":"561","url":"/pub/sinclair/magazines/PopularComputingWeekly/Issue861030/Pages/PopularComputingWeekly86103000061.jpg"},{"issue":"12.86","magazine_type":"Review","magazine":"Crash","page":"36","url":"/pub/sinclair/magazines/Crash/Issue35/Pages/Crash3500036.jpg"},{"issue":"12.86","magazine_type":"Review","magazine":"Sinclair User","page":"87","url":"/pub/sinclair/magazines/SinclairUser/Issue057/Pages/SinclairUser05700087.jpg"},{"issue":"12.86","magazine_type":"Review","magazine":"Your Computer","page":"48","url":"/pub/sinclair/magazines/YourComputer/Issue8612/Pages/YourComputer861200048.jpg"},{"issue":"1.87","magazine_type":"Review","magazine":"Your Sinclair","page":"47","url":"/pub/sinclair/magazines/YourSinclair/Issue13/Pages/YourSinclair1300047.jpg"},{"issue":"2.87","magazine_type":"Review","magazine":"ZX Computing","page":"39","url":"/pub/sinclair/magazines/ZXComputing/Issue8702/Pages/ZXComputing870200039.jpg"},{"issue":"4.87","magazine_type":"Letter","magazine":"Your Sinclair","page":"17","url":"/pub/sinclair/magazines/YourSinclair/Issue16/Pages/YourSinclair1600017.jpg"},{"issue":"7.88","magazine_type":"Feature - Sports Sims","magazine":"ACE","page":"77","url":"/pub/sinclair/magazines/ACE/Issue10/Pages/ACE1000077.jpg"},{"issue":"1.87","magazine_type":"Nuevo","magazine":"MicroHobby","page":"20","url":"/pub/sinclair/magazines/MicroHobby/Issue111/Pages/MicroHobby11100020.jpg"}]}}
+
+
+
+
+
+
+{
+"_index":"sinclair","_type":"game","_id":"0000016","_version":5,"found":true,"_source":{"pageinfo":{"url":"http://www.worldofspectrum.org/infoseekid.cgi?id=0000016","domain":"worldofspectrum.org","path":"/infoseekid.cgi","subDomain":"www","parentUrl":"http://www.worldofspectrum.org/games/1.html","anchor":"19 Part 1: Boot Camp"},"fulltitle":"19 Part 1: Boot Camp","yearofrelease":1988,"publisher":{"name":"Cascade Games Ltd","country":"UK"},"rereleasedby":[{"country":"Spain","as":"as '19 Boot Camp'","name":"MCM Software S.A."},{"country":"UK","name":"Summit Software [1]"},{"country":"Spain","as":"as '19 Boot Camp'","name":"Zafiro Software Division"}],"authors":{"authors":["Paul Laidlaw","Tony Warriner","Sean Conran","Damon Redmond"]},"inspiredby":"Paul Hardcastle (music: 19)","machinetype":"ZX Spectrum 48K/128K","numberofplayers":4,"multiplayermode":"alternating","controls":["Interface 2","Keyboard","Kempston"],"type":"Arcade: Action","messagelanguage":"English","originalpublication":"Commercial","originalprice":[{"amount":-1.0,"currency":"N/A"}],"budgetprice":[{"amount":2.99,"currency":"Â£"}],"availability":"Available as both Perfect TZX and non-TZX","protectionscheme":"Multiple schemes (see individual downloads)","additional":[{"type":"compilation","info":"Appeared on the compilation","target":"4 Most Warzone"},{"info":"Also listed on Wikipedia and Freebase"}],"spotcomments":"Sinclair User cover demo","series":"This game belongs in the following series: \n 1. 19 Part 1: Boot Camp \n 2. 19 Part 2: Combat Zone","othersystems":"This title was also advertised for and/or published on the Commodore 64","score":{"score":6.73,"votes":11},"downloads":[{"filename":"19Part1-BootCamp.tzx.zip","code":"","size":111557,"year":"1988","origin":"Original release","encodingscheme":"Unspecified custom loader","dl":"","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/123/19Part1-BootCamp.tzx.zip"},{"filename":"19Part1-BootCamp.tap.zip","code":"","size":110451,"year":"1988","origin":"","dl":"","type":"(non-TZX) TAP tape image","barcode":"","url":"/pub/sinclair/games/123/19Part1-BootCamp.tap.zip"},{"filename":"19Part1-BootCamp(19BootCamp)(MCMSoftwareS.A.).tzx.zip","code":"SEC543","size":110781,"year":"1989","origin":"Re-release","encodingscheme":"None","dl":"M-5504-1989","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/123/19Part1-BootCamp(19BootCamp)(MCMSoftwareS.A.).tzx.zip"},{"filename":"19Part1-BootCamp(19BootCamp)(ZafiroSoftwareDivision).tzx.zip","code":"60110442","size":104333,"year":"1988","origin":"Re-release","encodingscheme":"Unspecifiaed custom loader","dl":"M-11389-1988","type":"Perfect TZX tape image","barcode":"","url":"/pub/sinclair/games/123/19Part1-BootCamp(19BootCamp)(ZafiroSoftwareDivision).tzx.zip"}],"additionals":[{"filename":"19Part1-BootCamp.gif","size":4385,"type":"Loading screen","url":"/pub/sinclair/screens/load/123/gif/19Part1-BootCamp.gif"},{"filename":"19Part1-BootCamp.scr","size":6912,"type":"Loading screen dump","url":"/pub/sinclair/screens/load/123/scr/19Part1-BootCamp.scr"},{"filename":"19Part1-BootCamp.gif","size":7169,"type":"In-game screen","url":"/pub/sinclair/screens/in-game/123/19Part1-BootCamp.gif"},{},{"filename":"19Part1-BootCamp.txt","size":22401,"type":"Multi-language instructions","url":"/pub/sinclair/games-info/123/19Part1-BootCamp.txt"},{"filename":"19Part1-BootCamp(19BootCamp)(MCMSoftwareS.A.).txt","size":7866,"type":"Spanish instructions","url":"/pub/sinclair/games-info/123/19Part1-BootCamp(19BootCamp)(MCMSoftwareS.A.).txt"},{"filename":"19Part1-BootCamp.jpg","size":82193,"type":"Cassette inlay","url":"/pub/sinclair/games-inlays/123/19Part1-BootCamp.jpg"},{"filename":"19Part1-BootCamp(19BootCamp)(MCMSoftwareS.A.).jpg","size":42487,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/123/19Part1-BootCamp(19BootCamp)(MCMSoftwareS.A.).jpg"},{"filename":"19Part1-BootCamp(NineteenBootCamp)(ZafiroSoftwareDivision).jpg","size":174035,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/123/19Part1-BootCamp(NineteenBootCamp)(ZafiroSoftwareDivision).jpg"},{"filename":"19Part1-BootCamp(SummitSoftware).jpg","size":44726,"type":"Re-release cassette inlay","url":"/pub/sinclair/games-inlays/Rereleases/123/19Part1-BootCamp(SummitSoftware).jpg"},{"filename":"19Part1-BootCamp.jpg","size":236330,"type":"Advertisement","url":"/pub/sinclair/games-adverts/123/19Part1-BootCamp.jpg"},{"filename":"19Part1-BootCamp_Poster.jpg","size":354538,"type":"Sinclair User magazine poster","url":"/pub/sinclair/magazines/SinclairUser/Issue072/SUPoster072.jpg"},{"filename":"19Part1-BootCamp.ay.zip","size":4263,"type":"Ripped in-game and theme music in AY format","url":"/pub/sinclair/music/ay/games/123/19Part1-BootCamp.ay.zip"}],"magazine_1":[{"issue":"12.87","magazine_type":"Advert","magazine":"Crash","page":"98","url":"/pub/sinclair/magazines/Crash/Issue47/Pages/Crash4700098.jpg"},{"issue":"12.87","magazine_type":"Advert","magazine":"Computer & Video Games","page":"130","url":"/pub/sinclair/magazines/C+VG/Issue074/Pages/CVG07400130.jpg"},{"issue":"12.87","magazine_type":"Advert","magazine":"Sinclair User","page":"112","url":"/pub/sinclair/magazines/SinclairUser/Issue069/Pages/SinclairUser06900112.jpg"},{"issue":"1.88","magazine_type":"Advert","magazine":"Crash","page":"42","url":"/pub/sinclair/magazines/Crash/Issue48/Pages/Crash4800042.jpg"},{"issue":"3.88","magazine_type":"CompoEntry","magazine":"Computer & Video Games","page":"88","url":"/pub/sinclair/magazines/C+VG/Issue077/Pages/CVG07700088.jpg"},{"issue":"7.88","magazine_type":"CompoEntry","magazine":"Sinclair User","page":"28","url":"/pub/sinclair/magazines/SinclairUser/Issue076/Pages/SinclairUser07600028.jpg"},{"issue":"7.88","magazine_type":"Offer","magazine":"Sinclair User","page":"31","url":"/pub/sinclair/magazines/SinclairUser/Issue076/Pages/SinclairUser07600031.jpg"},{"issue":"9.88","magazine_type":"CompoEntry","magazine":"Crash","page":"69","url":"/pub/sinclair/magazines/Crash/Issue56/Pages/Crash5600069.jpg"},{"issue":"9.88","magazine_type":"Two-page ad","magazine":"Your Sinclair","page":"2","url":"/pub/sinclair/magazines/YourSinclair/Issue33/Pages/YourSinclair3300002.jpg"},{"issue":"10.88","magazine_type":"CompoResult","magazine":"Sinclair User","page":"73","url":"/pub/sinclair/magazines/SinclairUser/Issue079/Pages/SinclairUser07900073.jpg"}],"magazine_0":[{"issue":"7.87","magazine_type":"News/Note","magazine":"Computer & Video Games","page":"8","url":"/pub/sinclair/magazines/C+VG/Issue069/Pages/CVG06900008.jpg"},{"issue":"11.87","magazine_type":"News/Note","magazine":"Sinclair User","page":"9","url":"/pub/sinclair/magazines/SinclairUser/Issue068/Pages/SinclairUser06800009.jpg"},{"issue":"1.88","magazine_type":"News/Note","magazine":"Sinclair User","page":"8","url":"/pub/sinclair/magazines/SinclairUser/Issue070/Pages/SinclairUser07000008.jpg"},{"issue":"2.88","magazine_type":"Preview","magazine":"Crash","page":"109","url":"/pub/sinclair/magazines/Crash/Issue49/Pages/Crash4900109.jpg"},{"issue":"2.88","magazine_type":"Preview","magazine":"Sinclair User","page":"94","url":"/pub/sinclair/magazines/SinclairUser/Issue071/Pages/SinclairUser07100094.jpg"},{"issue":"3.88","magazine_type":"News/Note","magazine":"Computer & Video Games","page":"8","url":"/pub/sinclair/magazines/C+VG/Issue077/Pages/CVG07700008.jpg"},{"issue":"3.88","magazine_type":"CoverGame","magazine":"Sinclair User","page":"8","url":"/pub/sinclair/magazines/SinclairUser/Issue072/Pages/SinclairUser07200008.jpg"},{"issue":"3.88","magazine_type":"Poster","magazine":"Sinclair User","page":"50","url":"/pub/sinclair/magazines/SinclairUser/Issue072/Pages/SinclairUser07200050.jpg"},{"issue":"3.88","magazine_type":"Preview","magazine":"Sinclair User","page":"87","url":"/pub/sinclair/magazines/SinclairUser/Issue072/Pages/SinclairUser07200087.jpg"},{"issue":"3.88","magazine_type":"News/Note","magazine":"Your Sinclair","page":"6","url":"/pub/sinclair/magazines/YourSinclair/Issue27/Pages/YourSinclair2700006.jpg"},{"issue":"4.88","magazine_type":"Preview","magazine":"Your Sinclair","page":"9","url":"/pub/sinclair/magazines/YourSinclair/Issue28/Pages/YourSinclair2800009.jpg"},{"issue":"6.88","magazine_type":"News/Note","magazine":"Games Machine","page":"17","url":"/pub/sinclair/magazines/TheGamesMachine/Issue07/Pages/TheGamesMachine0700017.jpg"},{"issue":"7.88","magazine_type":"Review","magazine":"Sinclair User","page":"42","url":"/pub/sinclair/magazines/SinclairUser/Issue076/Pages/SinclairUser07600042.jpg"},{"issue":"8.88","magazine_type":"News/Note","magazine":"ACE","page":"11","url":"/pub/sinclair/magazines/ACE/Issue11/Pages/ACE1100011.jpg"},{"issue":"8.88","magazine_type":"Preview","magazine":"Your Sinclair","page":"10","url":"/pub/sinclair/magazines/YourSinclair/Issue32/Pages/YourSinclair3200010.jpg"},{"issue":"9.88","magazine_type":"Review","magazine":"Crash","page":"14","url":"/pub/sinclair/magazines/Crash/Issue56/Pages/Crash5600014.jpg"},{"issue":"9.88","magazine_type":"Review - not a Spectrum article","magazine":"Games Machine","page":"74","url":"/pub/sinclair/magazines/TheGamesMachine/Issue10/Pages/TheGamesMachine1000074.jpg"},{"issue":"9.88","magazine_type":"Review","magazine":"Your Sinclair","page":"25","url":"/pub/sinclair/magazines/YourSinclair/Issue33/Pages/YourSinclair3300025.jpg"},{"issue":"10.88","magazine_type":"Review","magazine":"Computer & Video Games","page":"55","url":"/pub/sinclair/magazines/C+VG/Issue084/Pages/CVG08400055.jpg"},{"issue":"10.88","magazine_type":"Review","magazine":"Games Machine","page":"81","url":"/pub/sinclair/magazines/TheGamesMachine/Issue11/Pages/TheGamesMachine1100081.jpg"},{"issue":"11.88","magazine_type":"Hack/Poke","magazine":"Your Sinclair","page":"54","url":"/pub/sinclair/magazines/YourSinclair/Issue35/Pages/YourSinclair3500054.jpg"},{"issue":"12.88","magazine_type":"Hack/Poke","magazine":"Crash","page":"49","url":"/pub/sinclair/magazines/Crash/Issue59/Pages/Crash5900049.jpg"},{"issue":"12.88","magazine_type":"Hack/Poke","magazine":"Your Sinclair","page":"33","url":"/pub/sinclair/magazines/YourSinclair/Issue36/Pages/YourSinclair3600033.jpg"},{"issue":"1.89","magazine_type":"Hack/Poke","magazine":"Your Sinclair","page":"35","url":"/pub/sinclair/magazines/YourSinclair/Issue37/Pages/YourSinclair3700035.jpg"},{"issue":"4.89","magazine_type":"Hack/Poke","magazine":"Crash","page":"34","url":"/pub/sinclair/magazines/Crash/Issue63/Pages/Crash6300034.jpg"},{"issue":"8.90","magazine_type":"Review","magazine":"Your Sinclair","page":"76","url":"/pub/sinclair/magazines/YourSinclair/Issue56/Pages/YourSinclair5600076.jpg"},{"issue":"11.88","magazine_type":"Nuevo","magazine":"MicroHobby","page":"39","url":"/pub/sinclair/magazines/MicroHobby/Issue182/Pages/MicroHobby18200039.jpg"}]}}
+
+
+
+
+
