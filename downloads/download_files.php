@@ -9,10 +9,12 @@
 $url = 'https://wos.meulie.net';
 include('import_connection.php');
 
+$limit = 'limit 100';
+
 
 echo '<h3>Additionals</h3>';
 
-$results = $dbh->query("SELECT * FROM additionals limit 50");
+$results = $dbh->query("SELECT * FROM additionals " . $limit);
 
 foreach ($results as $result) {
 
@@ -26,7 +28,7 @@ foreach ($results as $result) {
 
 echo '<h3>downloads</h3>';
 
-$results = $dbh->query("SELECT * FROM downloads limit 50");
+$results = $dbh->query("SELECT * FROM downloads " . $limit);
 
 foreach ($results as $result) {
 
@@ -43,7 +45,7 @@ foreach ($results as $result) {
 
 echo '<h3>magazines</h3>';
 
-$results = $dbh->query("SELECT * FROM magazines limit 50");
+$results = $dbh->query("SELECT * FROM magazines " . $limit);
 
 foreach ($results as $result) {
 
