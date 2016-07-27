@@ -1,0 +1,310 @@
+INSTRUCTIONS
+How to Load - Please refer to cassette tape
+label.
+
+INTRODUCTION
+Your name is Bond - James Bond, the world's
+top Secret Agent, and now embarking on one
+of the most important missions of your career.
+To fail is the worst thing that can happen to you.
+    Your objective is to discover what dastardly
+plan is being hatched by Max Zorin, an unscru-
+pulous European electronics magnate, and
+prevent him from carrying it out. You learn that
+the information you need is in three main lo-
+cations. Paris, where you must make contact
+with May Day to get a vital clue. The City Hall in
+San Francisco, where various secrets are hid-
+den, and finally a Silver Mine under Silicon Val-
+ley, where you piece together your information
+and finally foil Max Zorin - we all hope!
+
+THE CODES
+At the end of the first two games you'll be given
+a code which you must type in at the start of
+each new game. This simply tells the program
+how well you've done in the last game, and
+passes over various helpful pieces of informa-
+tion. You may play any game at any time, but to
+be totally successful in the final game you must
+have done as well as James Bond himself
+would have! This will become apparent as you
+play each game. Once you've got the codes,
+you can always use them again - the numbers
+are not randomly generated each time. How-
+ever, you may wish to improve them each time.
+
+THE REAL TIME ELEMENT
+Each game is played in real time. You're against
+the clock - and good times are passed on via
+the code to give you more time in subsequent
+games.
+
+YOUR PERFORMANCE
+James Bond doesn't exactly die - but he can fail
+when you play him! He may irrevocably
+damage his car around Paris - or become
+engulfed in flames in City Hall. How the real
+James Bond gets out of these situations without
+your help (some might say interference!) is left
+to your imagination. Needless to say, he lives to
+fight another day, and you can try, try and try
+again.
+
+LIST OF FEATURES
+(Different in various games)
+Pause - Select this on your menu, and give
+yourself a break. Open a bottle of Bollinger
+Champagne, or light a Davidoff cigar. Sit back
+for thought, and time will stand still.
+Abort - So things are a little tricky on this mis-
+sion and you want a weekend in Acapulco.
+Select Abort on the menus, press 'fire' twice (not
+applicable in Paris - you're on holiday anyway)
+and pack your bags.
+Music - You have a choice of "The James Bond
+Theme" by Monty Norman (c) 1962 United Part-
+nerships Ltd. Reproduced by permission, or the
+hit single "A View to a Kill" by Duran Duran and
+John Barry (c) 1985 Tritec Music Ltd/CBS Songs
+Ltd. Reproduced by permission at various
+points in the game.
+Controls - All games may be joystick or key-
+board operated.
+Speech - You'll hear it at various times - listen
+out!
+
+GAME 1: PARIS CHASE
+The scene is set:
+Bond has been briefed by 'M' and has been
+instructed to find out what Max Zorin's plot is all
+about. He has lunch in the Eiffel Tower with a
+friendly Agent who is killed by May Day. Bond
+chases her up the Tower, but she hurls herself
+off the top and parachutes to a drop point on
+the outskirts of Paris. He leaps onto the top of
+the Tower lift and commandeers a taxi at the
+bottom. From then on, you take over. You can
+follow her movements with the aid of a radio
+tracker, which indicates her proximity and her
+altitude, and her shadow will pass over your
+aerial view. You can see the building in front of
+you through the windscreen, and your speed,
+the time and your damage is indicated on the
+dash-board. Your objective is to reach the cor-
+rect drop point exactly at the same time as she
+does, but be careful. The winds constantly
+change, and her direction may alter at any
+time, landing her on any one of a number of
+possible drop points.
+  Along your route you will encounter various
+hazards. The street's one way system is indi-
+cated by little yellow arrows, and going against
+the system may cause the police cars to chase
+you. Watch out, they may take a pot shot at you!
+The drivers around Paris are fairly reckless,
+and the odd Porsche may career into you. There
+are barriers to avoid, and brushing into build-
+ings will definitely take it out on your blue
+Renault. Because Bond never travels without a
+pistol, you can use one here to knock out
+unwelcome vehicles which may get into your
+path. Also, being an expert driver, handbrake
+turns are easy for you, and may get you out of
+tricky situations!
+
+Controls - for details of joystick or keyboard
+controls see the title screen.
+
+In the event that you fail to catch May Day the
+game will automatically start again. Maybe
+you'll have learnt something! If you do well your
+code will be important for use in later games. It
+relates your success to the other programs, in a
+way that you'll subsequently discover.
+
+GAME 2: CITY HALL
+James Bond has travelled to San Francisco in
+his search for Max Zorin. Armed with the infor-
+mation from May Day he finds him in the City
+Hall, but Zorin turns the tables. At gun point,
+Bond and his companion, Stacey, are pushed
+into the lift, and trapped between floors. In an
+effort to finish them off in an "accident", Zorin
+sets fire to the top floor of the City Hall, and
+leaves. Bond pulls himself out of the lift and
+must now get Stacey and himself out of the
+burning building. You take over at this point.
+Using the "duck shoot" menu system, you can
+either move Bond from room to room, or take
+action, such as searching, using, dropping or
+issuing commands to Stacey. You can also
+select the top menu, to collect objects which will
+be useful later on. There is however a limit to
+what you can carry, so be selective. Your objec-
+tive is to find some way of getting Stacey out of
+the lift, and fight your way to safety.
+  You will notice that the fire has started on
+your view of the City Hall. This will spread
+across with time, and although the odd fire
+bucket will slow it down, you've got to move
+fast. Unfortunately, if you get too close to the
+fire, you become hot and find it difficult to
+breathe. This has the effect of flowing your
+actions. If the fire catches up with you or you get
+into a burning room, you will be totally over-
+come, and have to start again. Stacey won't
+love you much if you fail her.
+  To help you in your task, a light will shine on
+the plan view of the City Hall to indicate your
+location. Once a room has been visited, it will
+be marked in colour to show your achievement.
+Use door passes correctly, and consider what
+items might be helpful in getting Stacey out of
+the lift shaft. Once you've got her, don't forget
+to hurry to find a way out. It's not as easy as it
+seems!
+
+Important. To get out, you're going to need a
+set of numbers, which fit into the code holder
+you start off with. When filled, this holder must
+be set to break the security-locked door at the
+bottom right of the City Hall - and that's a long
+way!
+
+HOW THE "DUCK SHOOT" WORKS
+When you press the fire button, control will be
+passed from Bond to the upper part of the duck
+shoot menu. Moving left or right will scroll the
+objects you are carrying past the selection
+point. When you have selected the object, press
+the fire button and control will be passed to the
+lower menu. If you want to go straight to the
+lower menu, select the downward arrow. In the
+lower menu you have a number of actions
+which can be selected.
+
+These are:
+RETURN - Returns control to Bond
+SEARCH - Searches the room you are in. Any
+object that is in the room will be displayed on
+the upper duck shoot. Select the objects you
+want to pick up by scrolling the menu and
+pressing the fire button.
+DROP - Drops the object selected in the upper
+menu.
+USE - Uses the object selected in the upper
+menu.
+GIVE - Enables you to give an object to the girl
+if she is with you.
+STAY - If the girl is with you, then selecting the
+picture of her head and this command will
+instruct her to stay in the room.
+FOLLOW - When selected in conjunction with
+the girls head, will instruct her to follow you.
+PAUSE - Allows you to Pause the game.
+ABORT - If you select this, the lower menu will
+flash. If you really want to abort then press the
+fire button again. This will return you to the start
+of the game.
+
+USEFUL OBJECTS:
+GUN AND BULLETS: You will find a gun and
+some bullets in the City Hall. Using the gun you
+can shoot open the interconnecting doors. To
+do this, select the gun and then select the USE
+option. It takes two uses of the gun to shoot
+open a door. Take care, you will only find a
+small number of bullets, don't get too trigger
+happy.
+DOOR KEYS: These keys are colour coded for
+specific doors. They can only be used in the
+door for which they are intended.
+SECURITY CARDS: These are colour coded for
+the doors for which they are intended. N.B. The
+yellow card is outlined in black.
+CUPBOARD KEYS: Colour coded and can be
+used to open locked cupboards.
+MINE PASS and GEIGER COUNTER: Get these
+and they will aid you in the mine.
+  You will find many other objects, but you will
+have to work out how they can help you or hin-
+der you.
+
+
+GAME 3: THE MINE - SILICON VALLEY
+At last, Max Zorin's plan is revealed. As Bond
+suspected all along, the evil mastermind of the
+electronics empire is intent on capturing the sili-
+con chip market. What better way to achieve
+this than blowing up the disused mine under
+Silicon Valley and set off the geological faults to
+send the whole area into the Pacific? Bond
+enters the old mine to discover the nuclear
+detonator has been set and time is ticking
+away. The bomb is in an underground cavern,
+and the only way to get it out is to be winched
+down. He needs help - and May Day is the only
+person strong enough to help him. She may be
+Zorin's henchperson, but surely she must rea-
+lize the insanity of it all? He must find her and
+persuade her to aid him in his effort to save
+countless lives and the computer world! This is
+where you take over. You're in the mine, and
+must use the objects you find and the help you
+need to defuse the bomb before it is too late!
+  As you run through the mine, use the lift to
+reach different levels, or climb ropes to get the
+various items which will be useful. Sometimes
+you may have to tumble into oblivion, but you
+can look before you jump. Watch out for the
+nasty pits - have you got your grappling hook?
+Will the dynamite blow up the section of rock
+you want to go through? Have you got what
+you need to light it? Will time run out, will the
+Pacific's fish meet Silicon Valley's chips? All this
+and more awaits you!
+
+Important: When you've found May Day, she
+will set off on another route; meet her at the
+winching point later on, but make sure you've
+freed her before you leave. Your reward for
+succeeding is a fitting end for such an accom-
+plished super Secret Agent!
+
+MINE DUCK SHOOT
+The Mine Duck Shoot works in the same way as
+the duck shoot in City Hall. There are some dif-
+ferent commands, these are as follows:
+GET LIFT: If you are standing next to the lift
+shaft then this command will cause the lift to
+move to your level.
+WINCH DOWN: If you have successfully
+assembled all the winch mechanisms and have
+rescued MAY DAY then using this command will
+cause May Day to winch you down to the
+detonator.
+WINCH UP: This will cause May Day to winch you
+up.
+
+USEFUL OBJECTS
+GRAPNEL GUN: using the gun will allow you to
+shoot a rope up from your position to whatever is
+above. You will then be able to jump onto the rope
+and climb it as normal. When you jump off, the rope
+will rewind. Take care; you only have a limited num-
+ber of charges.
+DYNAMITE AND LIGHTER: Both of these objects can
+be used in conjunction to blow up certain rocks.
+GEIGER COUNTER: If you found this in the City
+Hall, it will then be displayed on screen and will
+show how close to the bomb you are.
+CODE NUMBERS: You will find numbers through-
+out the mine, five of these numbers, used in the cor-
+rect order, will defuse the detonator. It is possible to
+find out which are the correct numbers and se-
+quence. But that is a problem worthy of the best
+Secret Agent!
+
+--------------------------------------------
+Document created by Frode Tennebø, 20070606.

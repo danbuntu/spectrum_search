@@ -1,0 +1,91 @@
+Ian Flemming's James Bond 007 in Live and Let Die - The Computer Game
+---------------------------------------------------------------------
+
+M has given you the top secret mission: "Find Mr. Big, and don't come back
+until you do".
+
+Q has given you the latest gadget: "Be very careful with it 007. It is the
+fastest and most dangerous speedboat ever made. Just to make sure you find
+Mr. Big, we have arranged some practice sessions for you in extreme
+conditions. You'll go from the Desert to the Icebergs before we let you
+loose in Florida - Mr. Big's home country."
+
+"Good luck 007"
+
+
+INTRODUCTION:
+
+Dr. Kananga, the infamous and ruthless Prime Minister of the Carribean
+island of San Monique, an island whose people are controlled by the
+fearful power of voodoo, is harvesting huge fields of poppies concealed
+under camouflaged netting on this paradise island. He plans to control the
+US drug market by flooding America with tons of free Heroin which would
+create a living hell for millions, and incidentally, provide money for arms
+to Eastern bloc allied San Monique.
+
+Dr. Kananga or "Mr Big" as he is known in the underworld, is a shrewd
+operator who conceals his dealings from prying eyes. His headquaters, which
+are well hidden beneath a cemetary on San Monique, ships all of the
+un-refined heroin to processing factories in remote and inaccessible
+locations.
+
+James Bond, 007, the world's top secret agent must undertake a series of
+dangerous missions to overcome the covert operations of Dr. Kananga.
+
+As James Bond you must carry out the orders of "M", travelling by the only
+accessible means.
+
+
+THE GAME
+
+As James Bond you must travel along the various waterways; Target practice,
+South American jungle mission, Norwegian Fjords and Middle East desert
+exercises.
+
+In the target practice section the red targets must be shot with the forward
+mounted machine gun, the black targets must be shot using missiles. There
+are two exercises that enable Bond to learn about the type of defence system
+used by Kananga, and finally the mission which is bristling with Dr.
+Kananga's defences. You must avoid mines, gun emplacements, dive bombing,
+enemy helicopters, submarines, enemy planes and enemy boats, some of which
+drop mines or booby trapped fuel barrels and can only be destroyed with a
+missile.
+
+Along the way you must completely pick up fuel by driving over fuel barrels,
+as well as the cannisters containing food and missiles dropped by the C.I.A.
+helicopters.
+
+Your speedboat must travel through dark tunnels, slide up slopes to avoid
+obstacles and must destroy closed lock gates with 'snuff' missiles.
+
+With a lot of skill and some luck you will reach the Heroin processing
+factories at the end of the waterway. The factory can only be destroy by
+leaping off a log into the air and letting off a 'snuff' missile to
+finally destroy the evil installations.
+
+
+CONTROL
+
+Pause - H
+Abort - R
+Boat control using joystick or Keyboard:
+Left - O
+Right - P
+Accelerate - Q
+Decelerate - A
+Bullets - Space
+Missiles - A + Space
+
+Good luck 007, the world is counting on you.
+
+A Domark Publication
+An Elite Production
+SOURCE CODE AND GAME FORMAT COPYRIGHT (C) 1988 Elite Sysyetms International
+Ltd.
+This game is based on the film "Live and Let Die"
+COPYRIGHT: Gun Symbol Logo (C) Danjag S.A. 1962 (C) Eon Productions Ltd
+Gildrose Publications Ltd 1987.
+CREDITS: Computer Game: Elite Systems Ltd - Peter Cook, Andy Williams,
+Bob & Dave Thomas, Bryron Nilson, Martin Ward, Paul Walker.
+
+(Transcribed by Robin Stuart)
