@@ -222,3 +222,5 @@ Type::build('datetime')
 
 //Plugin::load('Alaxos', ['bootstrap' => true]);
 //Plugin::load('Alaxos/BootstrapTheme');
+
+Configure::load('config');
